@@ -495,16 +495,6 @@ export default {
   },
   asyncData: () => {
     return {
-      featured: products.filter((x) => x.featured == 1 && x.winner == 1),
-      innenbereich: products.filter(
-        (x) => x.featured && x.category == "Innenbereich"
-      ),
-      gartentoiletten: products.filter(
-        (x) => x.featured && x.category == "Gartentoilette"
-      ),
-      campingtoiletten: products.filter(
-        (x) => x.featured && x.category == "Campingtoilette"
-      ),
       config,
     };
   },

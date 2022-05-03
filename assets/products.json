@@ -190,7 +190,8 @@
         "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp",
         "shopLink": "https://trobolo.com/de/produkte/wandago/",
         "featured": 1,
-        "winner": 1
+        "winner": 1,
+        "published": 1
     }, {
         "brand": "TROBOLO",
         "name": "TROBOLO IndiBlœm",

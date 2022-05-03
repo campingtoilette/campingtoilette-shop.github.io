@@ -30,7 +30,9 @@ export default {
   name: "testsieger",
   data() {
     return {
-      featured: products.filter((x) => x.featured == 1 && x.winner == 1),
+      featured: products.filter(
+        (x) => x.featured == 1 && x.winner == 1 && x.published == 1
+      ),
       config,
     };
   },
