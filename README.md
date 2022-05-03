@@ -1,2 +1,3 @@
-# campingtoilette-shop.github.io
-Shop für Campingtoiletten
+# Trockentrenntoilette.net
+
+This is the repository for [trockentrenntoilette.net](https://www.trockentrenntoilette.net/)
