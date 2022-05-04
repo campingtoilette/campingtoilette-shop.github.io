@@ -479,7 +479,6 @@
 
 <script>
 import config from "~/assets/data/config.json";
-import products from "~/assets/products.json";
 
 export default {
   name: "IndexPage",
@@ -490,6 +489,11 @@ export default {
         hid: "description",
         name: "description",
         content: config.seo.index.metaDescription,
+      },
+      {
+        hid: "robots",
+        name: "robots",
+        content: config.seo.index.robots,
       },
     ],
   },
