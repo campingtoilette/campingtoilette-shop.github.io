@@ -1,5 +1,28 @@
 [{
         "brand": "TROBOLO",
+        "name": "TROBOLO WandaGO",
+        "category": "Campingtoilette",
+        "material": "Polypropylen",
+        "size": "Höhe 313 - Tiefe 382 - Breite 341 mm",
+        "weight": "4,7 kg",
+        "payload": "150 kg",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/trobolo/",
+        "linkTitle": "TROBOLO WandaGO Campingtoilette im Test",
+        "linkTo": "/trobolo-wandago/",
+        "stars": 5,
+        "price": "199,00",
+        "reviewCount": 10,
+        "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp",
+        "shopLink": "https://trobolo.com/de/produkte/wandago/",
+        "featured": 1,
+        "winner": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
+    }, {
+        "brand": "TROBOLO",
         "name": "TROBOLO TeraBlœm",
         "category": "Innenbereich",
         "material": "15 mm massives Kiefernholz",
@@ -210,29 +233,6 @@
         }
     },
     {
-        "brand": "TROBOLO",
-        "name": "TROBOLO WandaGO",
-        "category": "Campingtoilette",
-        "material": "Polypropylen",
-        "size": "Höhe 313 - Tiefe 382 - Breite 341 mm",
-        "weight": "4,7 kg",
-        "payload": "150 kg",
-        "function": "Trennsystem",
-        "manufacturerLink": "/hersteller/trobolo/",
-        "linkTitle": "TROBOLO WandaGO Campingtoilette im Test",
-        "linkTo": "/trobolo-wandago/",
-        "stars": 5,
-        "price": "199,00",
-        "reviewCount": 10,
-        "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp",
-        "shopLink": "https://trobolo.com/de/produkte/wandago/",
-        "featured": 1,
-        "winner": 1,
-        "publish": true,
-        "seo": {
-            "robots": "noindex, follow"
-        }
-    }, {
         "brand": "TROBOLO",
         "name": "TROBOLO IndiBlœm",
         "category": "Campingtoilette",

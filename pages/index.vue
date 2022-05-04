@@ -16,7 +16,7 @@
           </div>
           <div class="col-lg-6 fadeInUp">
             <div class="section-title bg-white text-start text-primary pe-3">
-              Das Informationsportal für
+              Der Shop für die richtige
             </div>
             <h1 class="mb-4">{{ config.seo.mainKeyword }}</h1>
             <div v-html="config.seo.featureText"></div>
@@ -74,7 +74,7 @@
           <div class="section-title bg-white text-center text-primary px-3 h6">
             Gründe
           </div>
-          <h2 class="mb-5 h2">Vorteile von {{ config.seo.mainKeyword }}</h2>
+          <h2 class="mb-5 h2">Vorteile einer {{ config.seo.mainKeyword }}</h2>
         </div>
         <div class="row g-4">
           <div class="col-lg-3 col-sm-6 fadeInUp">
