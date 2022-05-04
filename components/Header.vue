@@ -58,7 +58,7 @@
               <div v-for="(subLink, index) in link.subLinks" :key="index">
                 <nuxt-link
                   :to="subLink.linkTo"
-                  :title="subLink.title"
+                  :title="subLink.linkTitle"
                   class="dropdown-item"
                   >{{ subLink.title }}</nuxt-link
                 >

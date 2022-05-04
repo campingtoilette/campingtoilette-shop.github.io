@@ -12,6 +12,36 @@
             "metaDescription": "Günstige Campingtoiletten online kaufen. Ultraleichte und kompakte Toiletten"
         }
     },
+    "categories": [{
+            "key": "campingtoilette",
+            "name": "Campingtoiletten",
+            "productCategory": "Campingtoilette",
+            "seo": {
+                "title": "Campingtoiletten günstig kaufen",
+                "metaDescription": "Auf Campingtoilette.shop findest du die richtige Campingtoilette sowie Zubehör. Testsieger und Produkte günstig kaufen.",
+                "robots": "index, follow"
+            }
+        },
+        {
+            "key": "gartentoilette",
+            "name": "Gartentoiletten",
+            "productCategory": "Gartentoilette",
+            "seo": {
+                "title": "Gartentoiletten günstig kaufen",
+                "metaDescription": "Auf Campingtoilette.shop findest du die richtige Gartentoilette sowie Zubehör. Testsieger und Produkte günstig kaufen.",
+                "robots": "index, follow"
+            }
+        },
+        {
+            "key": "innenbereich",
+            "name": "Innenbereich",
+            "productCategory": "Innenbereich",
+            "seo": {
+                "title": "Testsieger: Trenntoiletten für den Innenbereich",
+                "metaDescription": "Auf campingtoilette.shop findest du die besten und günstigsten Trenntoiletten für den Innenbereich. Jetzt Testsieger ansehen und vergleichen."
+            }
+        }
+    ],
     "navigationLinks": [{
             "title": "Home",
             "linkTo": "/",
@@ -28,20 +58,20 @@
             "publish": true,
             "subLinks": [{
                     "title": "Innenbereich",
-                    "linkTo": "/innenbereich/",
+                    "linkTo": "/kategorie/innenbereich/",
                     "linkTitle": "Trenntoiletten für den Innenbereich",
                     "publish": true
                 },
                 {
-                    "title": "Gartentoiletten",
-                    "linkTo": "/gartentoilette/",
+                    "title": "Gartentoilette",
+                    "linkTo": "/kategorie/gartentoilette/",
                     "linkTitle": "Gartentoiletten",
                     "publish": true
 
                 },
                 {
-                    "title": "Campingtoiletten",
-                    "linkTo": "/campingtoilette/",
+                    "title": "Campingtoilette",
+                    "linkTo": "/kategorie/campingtoilette/",
                     "linkTitle": "Campingtoiletten",
                     "publish": true
                 }
@@ -61,7 +91,7 @@
             "title": "Kontakt",
             "linkTitle": "Kontakt aufnehmen",
             "linkTo": "#kontakt",
-            "publish": true
+            "publish": false
         }
     ]
 }
