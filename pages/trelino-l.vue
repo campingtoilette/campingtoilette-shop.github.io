@@ -180,6 +180,10 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find(
+  (item) => item.name === "Trelino L mit HPL Veredelung"
+);
+
 export default {
   name: "TrelinoLMitHplVeredelung",
   head: {
@@ -191,13 +195,16 @@ export default {
         content:
           "Trockentrenntoilette Trelino L mit HPL Veredelung im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo.robots,
+      },
     ],
   },
-  asyncData: () => {
+  data() {
     return {
-      product: products.find(
-        (item) => item.name === "Trelino L mit HPL Veredelung"
-      ),
+      product,
     };
   },
   jsonld() {

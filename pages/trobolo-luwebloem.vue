@@ -193,6 +193,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "TROBOLO LuweBlœm");
+
 export default {
   name: "LuweBlœm",
   head: {
@@ -204,11 +206,16 @@ export default {
         content:
           "TROBOLO LuweBlœm im Test. Die LuweBlœm ist eine Trockentrenntoilette mit hohem Sitzkomfort und eignet sich hervorragend für den Innenbereich.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo.robots,
+      },
     ],
   },
-  asyncData: () => {
+  data() {
     return {
-      product: products.find((item) => item.name === "TROBOLO LuweBlœm"),
+      product,
     };
   },
   jsonld() {

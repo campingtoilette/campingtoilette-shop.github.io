@@ -166,6 +166,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "TROBOLO WandaGO");
+
 export default {
   name: "WandaGO",
   head: {
@@ -177,9 +179,14 @@ export default {
         content:
           "Campingtoilette TROBOLO WandaGO im Test. Wir testen die kompakte und ultraleichte Campingtoilette die für Wohnmobil, Camper, Van oder PKW konzipiert ist.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo.robots,
+      },
     ],
   },
-  asyncData: () => {
+  data() {
     return {
       product: products.find((item) => item.name === "TROBOLO WandaGO"),
     };

@@ -31,7 +31,7 @@ export default {
   data() {
     return {
       featured: products.filter(
-        (x) => x.featured == 1 && x.winner == 1 && x.published == 1
+        (x) => x.featured == 1 && x.winner == 1 && x.publish
       ),
       config,
     };

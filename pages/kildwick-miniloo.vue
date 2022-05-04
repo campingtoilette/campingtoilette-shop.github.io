@@ -132,7 +132,11 @@
             <p>
               Aufgrund der kompakten Größe und des geringen Gewichts vergeben
               wir der Kildwick MiniLoo eine Bestnote in der Kategorie
-              <NuxtLink to="/campingtoilette/" title="Alle Campingtoiletten im Überblick">Campingtoiletten</NuxtLink>.
+              <NuxtLink
+                to="/campingtoilette/"
+                title="Alle Campingtoiletten im Überblick"
+                >Campingtoiletten</NuxtLink
+              >.
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
@@ -198,6 +202,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "Kildwick MiniLoo");
+
 export default {
   name: "Kildwick MiniLoo",
   head: {
@@ -209,11 +215,16 @@ export default {
         content:
           "Die MiniLoo Campingtoilette von Kildwick ist eine sehr kompakte Trockentrenntoilette, welche als vorgefertiger Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo.robots,
+      },
     ],
   },
-  asyncData: () => {
+  data() {
     return {
-      product: products.find((item) => item.name === "Kildwick MiniLoo"),
+      product,
     };
   },
   jsonld() {

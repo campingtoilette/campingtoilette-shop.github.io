@@ -16,7 +16,11 @@
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
         "shopLink": "https://trobolo.com/de/produkte/terabloem/",
         "featured": 1,
-        "winner": 0
+        "winner": 0,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "TROBOLO",
@@ -35,7 +39,12 @@
         "reviewCount": 299,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp",
         "shopLink": "https://trobolo.com/de/produkte/luwebloem/",
-        "featured": 1
+        "featured": 1,
+        "winner": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "TROBOLO",
@@ -54,7 +63,11 @@
         "reviewCount": 412,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp",
         "shopLink": "https://trobolo.com/de/produkte/kersaboem/",
-        "featured": 1
+        "featured": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "Kildwick",
@@ -74,7 +87,11 @@
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp",
         "shopLink": "https://www.kildwick.com/Kildwick-Bausatz-Campingtoilette-Komposttoilette-MiniLoo",
         "featured": 0,
-        "winner": 1
+        "winner": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "Trelino",
@@ -94,7 +111,11 @@
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp",
         "shopLink": "https://www.trelino.com/de/products/trelino-l-wood-hpl-composting-toilet",
         "featured": 1,
-        "winner": 1
+        "winner": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "Separett",
@@ -113,7 +134,11 @@
         "reviewCount": 189,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-separett-tiny.webp",
         "shopLink": "https://separett.com/de/trenntoilette-tiny-mit-urinkanister",
-        "featured": 1
+        "featured": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "TROBOLO",
@@ -132,7 +157,11 @@
         "reviewCount": 145,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kitaboem.webp",
         "shopLink": "https://trobolo.com/de/produkte/kitaboem/",
-        "featured": 1
+        "featured": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "Trelino",
@@ -151,7 +180,11 @@
         "reviewCount": 199,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino-l.webp",
         "shopLink": "https://www.trelino.com/de/products/trelino-l-composting-toilet?variant=42102497542385",
-        "featured": 1
+        "featured": 1,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "Trelino",
@@ -170,7 +203,11 @@
         "reviewCount": 189,
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino-m-weiss.webp",
         "shopLink": "https://www.trelino.com/de/collections/composting-toilets/products/trelino%C2%AE-m-composting-toilet-made-of-wood-with-hpl-finish-in-white",
-        "featured": 0
+        "featured": 0,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     },
     {
         "brand": "TROBOLO",
@@ -191,7 +228,10 @@
         "shopLink": "https://trobolo.com/de/produkte/wandago/",
         "featured": 1,
         "winner": 1,
-        "published": 1
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     }, {
         "brand": "TROBOLO",
         "name": "TROBOLO IndiBlœm",
@@ -209,7 +249,11 @@
         "reviewCount": 12,
         "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-indibloem.webp",
         "shopLink": "https://trobolo.com/de/produkte/indibloem/",
-        "featured": 1,
-        "winner": 1
+        "featured": 0,
+        "winner": 0,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
+        }
     }
 ]

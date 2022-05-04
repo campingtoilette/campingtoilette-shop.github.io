@@ -204,6 +204,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "TROBOLO KersaBœm");
+
 export default {
   name: "TROBOLO KersaBœm",
   head: {
@@ -215,11 +217,16 @@ export default {
         content:
           "Die Gartentoilette KersaBœm von TROBOLO ist eine autarke Trockentrenntoilette welche als vorgefertigter Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo.robots,
+      },
     ],
   },
-  asyncData: () => {
+  data() {
     return {
-      product: products.find((item) => item.name === "TROBOLO KersaBœm"),
+      product,
     };
   },
   jsonld() {

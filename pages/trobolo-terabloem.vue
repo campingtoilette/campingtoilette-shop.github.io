@@ -169,6 +169,8 @@
 <script>
 import products from "~/assets/products.json";
 
+const product = products.find((item) => item.name === "TROBOLO TeraBlœm");
+
 export default {
   name: "TeraBloem",
   head: {
@@ -180,9 +182,14 @@ export default {
         content:
           "Trockentrenntoilette TROBOLO TeraBlœm im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo.robots,
+      },
     ],
   },
-  asyncData: () => {
+  data() {
     return {
       product: products.find((item) => item.name === "TROBOLO TeraBlœm"),
     };
