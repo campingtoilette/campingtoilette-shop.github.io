@@ -3,6 +3,7 @@
     "email": "campingtoilette@protonmail.com",
     "logoText": "Campingtoilette Shop",
     "title": "Shop für Campingtoiletten",
+    "companyAddress": "Steinbrink 28 30966 Hemmingen, Deutschland",
     "seo": {
         "featureText": "<p class=\"mb-4\">Wir sind dein Ratgeber für Campingtoiletten. Wir testen Hersteller, Produkte und liefern dir die Infos die du benötigst, um die passende Campingtoilette zu finden.</p><p class=\"mb-4\">Unsere Tests beinhalten mehrere Kriterien denen wir gründlich auf den Grund gehen. Dabei kommen folgende Testkritieren zum Einsatz:</p>",
         "mainKeyword": "Campingtoiletten",
@@ -55,6 +56,12 @@
                 "linkTitle": "Einstreu für die Campingtoilette",
                 "publish": true
             }]
+        },
+        {
+            "title": "Kontakt",
+            "linkTitle": "Kontakt aufnehmen",
+            "linkTo": "#kontakt",
+            "publish": true
         }
     ]
 }

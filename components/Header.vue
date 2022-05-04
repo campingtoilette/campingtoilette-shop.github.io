@@ -67,8 +67,6 @@
           </div>
 
           <!-- end subLinks -->
-
-          <a href="#kontakt" class="nav-item nav-link">Kontakt</a>
         </div>
         <a
           href="/#testsieger"

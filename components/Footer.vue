@@ -14,8 +14,8 @@
           <div class="col-lg-3 col-md-6" id="kontakt">
             <h4 class="text-white mb-3">Kontakt</h4>
             <p class="mb-2">
-              <i class="fa fa-map-marker-alt me-3"></i>Steinbrink 28 30966
-              Hemmingen, Deutschland
+              <i class="fa fa-map-marker-alt me-3"></i
+              >{{ config.companyAddress }}
             </p>
             <!-- <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p> -->
             <p class="mb-2">
