@@ -59,7 +59,7 @@
         >
         <small class="flex-fill text-center border-end py-2"
           ><i class="fa text-primary me-2"></i
-          ><NuxtLink :to="`/${product.category.toLowerCase()}/`">
+          ><NuxtLink :to="`/kategorie/${product.category.toLowerCase()}/`">
             {{ product.category }}</NuxtLink
           ></small
         >
