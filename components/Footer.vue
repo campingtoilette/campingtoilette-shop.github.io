@@ -19,8 +19,7 @@
             </p>
             <!-- <p class="mb-2"><i class="fa fa-phone-alt me-3"></i>+012 345 67890</p> -->
             <p class="mb-2">
-              <i class="fa fa-envelope me-3"></i
-              >trockentrenntoilette-com@protonmail.com
+              <i class="fa fa-envelope me-3"></i>{{ config.email }}
             </p>
             <div class="d-flex pt-2">
               <a
@@ -120,14 +119,16 @@
           <div class="row">
             <div class="col-md-6 text-center text-md-start mb-3 mb-md-0">
               &copy;
-              <a class="border-bottom" href="/" title="Trockentrenntoilette"
-                >Trockentrenntoilette.net</a
-              >
+              <nuxt-link class="border-bottom" to="/" :title="config.title">{{
+                config.domain
+              }}</nuxt-link>
               - Alle Rechte vorbehalten.
             </div>
             <div class="col-md-6 text-center text-md-end">
               <div class="footer-menu">
-                <a href="/" title="Trockentrenntoilette">Home</a>
+                <nuxt-link to="/" :title="config.seo.mainKeyword"
+                  >Home</nuxt-link
+                >
                 <a href="#testsieger">Testsieger</a>
                 <a href="#hilfe">Hilfe</a>
                 <a href="#faq">FAQs</a>
@@ -144,3 +145,16 @@
     ></a>
   </div>
 </template>
+
+<script>
+import config from "~/assets/data/config.json";
+
+export default {
+  name: "footerComponent",
+  data() {
+    return {
+      config,
+    };
+  },
+};
+</script>

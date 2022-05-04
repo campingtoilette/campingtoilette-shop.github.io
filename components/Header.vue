@@ -30,43 +30,44 @@
       </button>
       <div class="collapse navbar-collapse" id="navbarCollapse">
         <div class="navbar-nav ms-auto p-4 p-lg-0">
-          <a href="/" class="nav-item nav-link active">Home</a>
-          <a href="/#produkte" class="nav-item nav-link">Produkte</a>
-          <a href="/#hersteller" class="nav-item nav-link">Hersteller</a>
-          <div class="nav-item dropdown">
-            <a
-              href="#"
+          <!-- single link -->
+          <div v-for="(link, index) in navigationLinks" :key="index">
+            <nuxt-link
+              :to="link.linkTo"
+              :title="link.linkTitle"
+              class="nav-item nav-link"
+              >{{ link.title }}</nuxt-link
+            >
+          </div>
+
+          <!-- end single link -->
+
+          <!-- subLinks -->
+          <div
+            class="nav-item dropdown"
+            v-for="(link, index) in subLinks"
+            :key="index"
+          >
+            <nuxt-link
+              to="#"
               class="nav-link dropdown-toggle"
               data-bs-toggle="dropdown"
-              >Einsatzgebiete</a
+              >{{ link.title }}</nuxt-link
             >
             <div class="dropdown-menu fade-down m-0">
-              <a href="/innenbereich/" class="dropdown-item">Innenbereich</a>
-              <a href="/gartentoilette/" class="dropdown-item"
-                >Gartentoiletten</a
-              >
-              <a href="/campingtoilette/" class="dropdown-item"
-                >Campingtoiletten</a
-              >
+              <div v-for="(subLink, index) in link.subLinks" :key="index">
+                <nuxt-link
+                  :to="subLink.linkTo"
+                  :title="subLink.title"
+                  class="dropdown-item"
+                  >{{ subLink.title }}</nuxt-link
+                >
+              </div>
             </div>
           </div>
-          <div class="nav-item dropdown">
-            <a
-              href="#"
-              class="nav-link dropdown-toggle"
-              data-bs-toggle="dropdown"
-              >Zubehör</a
-            >
-            <div class="dropdown-menu fade-down m-0">
-              <!-- <a href="/zubehoer/trenneinsatz/" class="dropdown-item"
-                >Trenneinsatz</a
-              > -->
-              <a href="/zubehoer/einstreu/" class="dropdown-item">Einstreu</a>
-              <!-- <a href="/campingtoilette/" class="dropdown-item"
-                >Campingtoiletten</a
-              > -->
-            </div>
-          </div>
+
+          <!-- end subLinks -->
+
           <a href="#kontakt" class="nav-item nav-link">Kontakt</a>
         </div>
         <a
@@ -82,13 +83,29 @@
 
 <script>
 import config from "~/assets/data/config.json";
+
 export default {
   name: "headerComponent",
   data() {
     return {
       config,
+      navigationLinks: config.navigationLinks.filter(
+        (x) => !x.subLinks && x.publish
+      ),
+      subLinks: config.navigationLinks.filter((x) => x.subLinks && x.publish),
     };
   },
 };
 </script>
 
+<style>
+.nuxt-link-active {
+  font-weight: bold;
+  color: #06bbcc;
+}
+
+.nuxt-link-exact-active {
+  font-weight: bold;
+  color: #06bbcc;
+}
+</style>

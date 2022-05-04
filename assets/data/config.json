@@ -1,5 +1,6 @@
 {
     "domain": "campingtoilette.shop",
+    "email": "campingtoilette@protonmail.com",
     "logoText": "Campingtoilette Shop",
     "title": "Shop für Campingtoiletten",
     "seo": {
@@ -9,5 +10,51 @@
             "title": "Campingtoilette günstig kaufen | Shop",
             "metaDescription": "Günstige Campingtoiletten online kaufen. Ultraleichte und kompakte Toiletten"
         }
-    }
+    },
+    "navigationLinks": [{
+            "title": "Home",
+            "linkTo": "/",
+            "linkTitle": "Campingtoiletten",
+            "publish": true
+        }, {
+            "title": "Hersteller",
+            "linkTo": "#hersteller",
+            "linkTitle": "Hersteller von Campingtoiletten",
+            "publish": true
+        },
+        {
+            "title": "Einsatzgebiete",
+            "publish": true,
+            "subLinks": [{
+                    "title": "Innenbereich",
+                    "linkTo": "/innenbereich/",
+                    "linkTitle": "Trenntoiletten für den Innenbereich",
+                    "publish": true
+                },
+                {
+                    "title": "Gartentoiletten",
+                    "linkTo": "/gartentoilette/",
+                    "linkTitle": "Gartentoiletten",
+                    "publish": true
+
+                },
+                {
+                    "title": "Campingtoiletten",
+                    "linkTo": "/campingtoilette/",
+                    "linkTitle": "Campingtoiletten",
+                    "publish": true
+                }
+            ]
+        },
+        {
+            "title": "Zubehör",
+            "publish": true,
+            "subLinks": [{
+                "title": "Einstreu",
+                "linkTo": "/zubehoer/einstreu/",
+                "linkTitle": "Einstreu für die Campingtoilette",
+                "publish": true
+            }]
+        }
+    ]
 }

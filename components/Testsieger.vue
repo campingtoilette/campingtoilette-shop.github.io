@@ -1,6 +1,6 @@
 <template>
   <!-- Testsieger Start -->
-  <div class="container-xxl py-5" id="produkte">
+  <div class="container-xxl py-5" id="testsieger">
     <div class="container">
       <div class="text-center fadeInUp">
         <div class="section-title bg-white text-center text-primary px-3 h6">
