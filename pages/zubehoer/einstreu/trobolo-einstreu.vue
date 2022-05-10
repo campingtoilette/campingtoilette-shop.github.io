@@ -105,6 +105,7 @@
 
 <script>
 import products from "~/assets/einstreu.json";
+const product = products.find((item) => item.name === "TROBOLO Einstreu");
 
 export default {
   name: "TROBOLO Einstreu",
@@ -116,6 +117,11 @@ export default {
         name: "description",
         content:
           "Der Einstreu für Trockentrenntoiletten von TROBOLO besteht zu 80% aus Kiefer und 20% aus Erle. Wir testen den Einstreu aus der Eigenproduktion von TROBLO.",
+      },
+      {
+        hid: "robots",
+        name: "robots",
+        content: product.seo ? product.seo.robots : "noindex, follow",
       },
     ],
   },

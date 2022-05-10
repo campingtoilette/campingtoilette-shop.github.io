@@ -42,7 +42,9 @@ export default {
         {
           hid: "description",
           name: "description",
-          content: categoryData.seo ? categoryData.seo.metaDescription : "bla",
+          content: categoryData.seo
+            ? categoryData.seo.metaDescription
+            : categoryData.name,
         },
         {
           hid: "robots",

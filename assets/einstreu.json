@@ -16,5 +16,8 @@
     "image": "/assets/images/zubehoer/einstreu/trobolo-einstreu.webp",
     "schemaPrice": 19.90,
     "sku": "ESXX1325",
-    "mpn": "23963"
+    "mpn": "23963",
+    "seo": {
+        "robots": "noindex, follow"
+    }
 }]
