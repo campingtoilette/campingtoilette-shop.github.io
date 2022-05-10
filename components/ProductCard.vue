@@ -33,7 +33,7 @@
         <li class="d-flex justify-content-between align-items-center">
           <span>Einsatzgebiet</span>
           <span>
-            <NuxtLink :to="`/${product.category.toLowerCase()}/`">
+            <NuxtLink :to="`/kategorie/${product.category.toLowerCase()}/`">
               {{ product.category }}</NuxtLink
             >
           </span>

@@ -133,7 +133,7 @@
               Aufgrund der kompakten Größe und des geringen Gewichts vergeben
               wir der Kildwick MiniLoo eine Bestnote in der Kategorie
               <NuxtLink
-                to="/campingtoilette/"
+                :to="`/kategorie/${product.category.toLowerCase()}/`"
                 title="Alle Campingtoiletten im Überblick"
                 >Campingtoiletten</NuxtLink
               >.

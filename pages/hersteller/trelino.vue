@@ -20,7 +20,7 @@
               Trockentrenntoiletten spezialisiert, die für den mobilen Einsatz
               gedacht sind. Die
               <NuxtLink
-                to="/campingtoilette/"
+                to="/kategorie/campingtoilette/"
                 title="Alle Campingtoiletten im Überblick"
                 >Campingtoiletten</NuxtLink
               >

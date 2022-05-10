@@ -117,8 +117,8 @@
               sehr guten Sitzkomfort aus. Sie ist etwas schwerer und größer als
               die weiteren Produkte von TROBOLO, ist aber auch weniger für den
               mobilen Einsatz gedacht. Wer eine langlebige
-              <a href="/innenbereich/"
-                >Trockentrenntoilette für den Innenbereich</a
+              <nuxt-link to="/kategorie/innenbereich/"
+                >Trockentrenntoilette für den Innenbereich</nuxt-link
               >
               wie im Haus oder Tiny House sucht, ist mit der LuweBlœm bestens
               bedient.

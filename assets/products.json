@@ -19,7 +19,7 @@
         "winner": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     }, {
         "brand": "TROBOLO",
@@ -227,30 +227,6 @@
         "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-trelino-m-weiss.webp",
         "shopLink": "https://www.trelino.com/de/collections/composting-toilets/products/trelino%C2%AE-m-composting-toilet-made-of-wood-with-hpl-finish-in-white",
         "featured": 0,
-        "publish": true,
-        "seo": {
-            "robots": "noindex, follow"
-        }
-    },
-    {
-        "brand": "TROBOLO",
-        "name": "TROBOLO IndiBlœm",
-        "category": "Campingtoilette",
-        "material": "Erle",
-        "size": "Höhe 475 - Tiefe 465 - Breite 310 mm",
-        "weight": "9,5 kg",
-        "payload": "180 kg",
-        "function": "Trennsystem",
-        "manufacturerLink": "/hersteller/trobolo/",
-        "linkTitle": "TROBOLO IndiBlœm Campingtoilette im Test",
-        "linkTo": "/trobolo-indibloem/",
-        "stars": 5,
-        "price": "659,00",
-        "reviewCount": 12,
-        "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-indibloem.webp",
-        "shopLink": "https://trobolo.com/de/produkte/indibloem/",
-        "featured": 0,
-        "winner": 0,
         "publish": true,
         "seo": {
             "robots": "noindex, follow"

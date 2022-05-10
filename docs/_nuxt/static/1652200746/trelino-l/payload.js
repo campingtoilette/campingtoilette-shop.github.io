@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/trelino-l", {data:[{_img:{}}],fetch:{},mutations:void 0});

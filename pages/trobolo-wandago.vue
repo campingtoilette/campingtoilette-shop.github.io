@@ -2,7 +2,10 @@
   <div>
     <ProductHeader
       productName="TROBOLO® WandaGO"
-      textContent="Die TROBOLO WandaGo Campingtoilette ist eine kompakte und ultraleichte Toilette für unterwegs. Sie eignet sich hervorragend für den Einsatz im Wohnmobil, Van, Camper oder im Outdoor-Bereich. Sie ist robust und wasserfest."
+      textContent="Beim TROBOLO WandaGO handelt es sich um eine leichtgewichtige
+              Campingtoilette, die man ideal in Wohnmobil, Van oder sogar im PKW
+              mitnehmen kann. Hier erfährst du, was das WandaGO auszeichnet und
+              ob sich die Campingtoilette für dich eignet."
       productImage="/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp"
     ></ProductHeader>
 
@@ -12,95 +15,93 @@
         <div class="row g-5">
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
+
             <p class="mb-4">
-              Die TROBOLO WandaGO ist eine mobile Toilette, die sich ideal für
-              den mobilen Einsatz wie im Outdoor Bereich, im Wohnmobil, im
-              Camper oder im Van eignet.
+              Beim TROBOLO WandaGO handelt es sich um eine leichtgewichtige
+              Campingtoilette, die man ideal in Wohnmobil, Van oder sogar im PKW
+              mitnehmen kann. Hier erfährst du, was das WandaGO auszeichnet und
+              ob sich die Campingtoilette für dich eignet.
             </p>
 
-            <h5 class="mb-3 mt-5">Komfort</h5>
+            <h5 class="mb-3 mt-5">Funktionsweise und Nutzung</h5>
 
             <p>
-              Die WandaGo Campingtoilette von TROBOLO ist eine stapelbare
-              Campingtoilette. Dies bedeutet, dass sie höhenverstellbar ist und
-              somit auf Standard Toilettenhöhe genutzt werden kann. Einmal kurz
-              aufgestellt, hatten wir dadurch in unserem Test eine sehr gute
-              Sitzhöhe und Komfort.
+              Während des Transports bringt es das WandaGO auf kompakte
+              313x382x341 mm, so dass es leicht untergebracht werden kann. Das
+              geringe Gewicht von gerade einmal 4,7 kg trägt ebenfalls dazu bei,
+              dass sich Transport und Nutzung unterwegs denkbar einfach
+              gestalten. Dank Stapelfunktion ist die Campingtoilette in wenigen
+              Handgriffen einsatzbereit und weist dann die gewohnte
+              WC-Standardhöhe auf, so dass keine Abstriche in Sachen
+              Toilettenkomfort gemacht werden müssen.
             </p>
 
-            <h5 class="mb-3 mt-5">Eckdaten</h5>
-
             <p>
-              Die Campingtoilette hat ein Gewicht von nur 4,7 kg und ist somit
-              eines der leichtesten Campingtoiletten auf dem Markt. Die WandaGO
-              hat eine Höhe von 313 mm, eine Tiefe von 382 mm und eine Breite
-              von 341 mm. Durch die Stapelfunktion können wir die Toilette für
-              unterwegs auf 490 mm hochsetzen. Die Traglast der ultraleichten
-              Campingtoilette beträgt 150 kg, was in Anbetracht des
-              Eigengewichtes enorm ist. Das verwendete Material ist Polypropylen
-              (Kunststoff), somit ist die WandaGO die erste Trockentrenntoilette
-              von TROBOLO die aus Kunststoff gefertigt wird.
+              Als nachhaltige Campingtoilette benötigt das WandaGO weder Strom,
+              Wasser noch Chemie. Bei der Nutzung werden flüssige und feste
+              Ausscheidungen durch einen Trenneinsatz automatisch in voneinander
+              getrennten Behältern aufgefangen. In Kombination mit Einstreu ist
+              hierdurch eine gänzlich geruchsfreie Toilettennutzung möglich.
             </p>
 
-            <h5 class="mb-3 mt-5">
-              Funktionsweise, Material und Geruchsentwicklung
-            </h5>
+            <h5 class="mb-3 mt-5">Entleerung und Entsorgung</h5>
 
             <p>
-              Wie alle Trockentrenntoiletten hat auch diese kleine
-              Campingtoilette ein Trennsystem, sprich Feststoffe und
-              Ausscheidungen landen in unterschiedlichen Gefäßen. Trotz der
-              kleinen Größe gab es in unserem Test keine unangenehme
-              Geruchsentwicklung. Eine extra Funktion welche die WandaGO
-              Campingtoilette mit sich bringt ist TROBOLO's sogenanntes
-              SafeShell System, welches im Grunde ein Ausschwappstop ist.
-              Hiermit wird vermieden das Urin während der Fahrt aus der Toilette
-              austritt. In Anbetracht dessen das die kleine Trockentrenntoilette
-              für den mobilen Einsatz wie im Wohnmobil, Van, Camper oder PKW
-              gedacht ist, macht diese Funktion wirklich Sinn.
+              Da die Ausscheidungen getrennt voneinander aufgefangen werden,
+              können Fest- und Flüssigkeitsbehälter separat voneinander
+              entnommen und entleert werden. Somit ist man nicht auf
+              Entleerungsstationen angewiesen, sondern kann feste Ausscheidungen
+              über den Hausmüll (wie Windeln) und flüssige Ausscheidungen über
+              eine reguläre Toilette entleeren. Auch eine Kompostierung ist
+              möglich.
             </p>
 
-            <p>Für die Nutzung ist kein Wasser oder Chemie notwendig.</p>
-
             <p>
-              Das Material der WandaGO ist Polypropylen (Kunststoff) und somit
-              die erste Toilette von TROBOLO, welche nicht aus Holz gefertigt
-              ist. Dies hat abgesehen vom verhältnismäßig geringerem Preis den
-              Vorteil, das sie jeglichen Wettereinflüssen standhält und somit
-              nicht nur einfach zu reinigen ist, sondern auch eine Langlebigkeit
-              besitzt.
+              Der Feststoffbehälter sollte spätestens 10 Tage nach Nutzung
+              entleert werden, damit die Campingtoilette komplett geruchlos
+              genutzt werden kann. Beim Flüssigkeitsbehälter ist man nicht auf
+              keinerlei bestimmte Leerungsintervalle angewiesen, da dieser durch
+              eine spezielle Membran, das TROBOLO SafeShell System, geschützt
+              ist. Das System verhindert einerseits das Entweichen von Gerüchen,
+              während es gleichzeitig das Ausschwappen während der Fahrt
+              unmöglich macht. Eine super Sache also!
             </p>
 
-            <h5 class="mb-3 mt-5">Nachhaltigkeit</h5>
+            <h5 class="mb-3 mt-5">Material und Widerstandsfähigkeit</h5>
 
             <p>
-              Die Campingtoilette WandaGO von TROBOLO wird aus Kunststoff
-              gefertigt und macht trotz des geringen Gewichts einen sehr
-              robusten Eindruck. Schade ist natürlich das die kleine
-              Campingtoilette nicht aus Holz ist, jedoch würde vermutlich genau
-              dies gegen die Anforderung einer mobilen Toilette sprechen, denn
-              diese muss leicht, wasserfest, robust und einfach zu reinigen
-              sein. Die WandaGO von TROBOLO benötigt kein Wasser oder Chemie,
-              was der Umwelt zugutekommt.
+              Beim Material des WandaGO wurde auf robusten Kunststoff gesetzt,
+              so dass die Campingtoilette einiges wegstecken kann. Man kann das
+              WandaGO theoretisch sogar im Regen nutzen und bei Wind und Wetter
+              draußen stehen lassen. Ob man dies tun möchte, ist noch einmal
+              eine andere Frage. Trotzdem ist es gut zu wissen, dass man sich
+              keine Sorgen machen muss, wenn man sein WandaGO mal draußen stehen
+              lässt und das Wetter umschlägt.
             </p>
 
-            <h5 class="mb-3 mt-5">Zubehör</h5>
+            <h5 class="mb-3 mt-5">Verbrauchsmaterialien und mehr</h5>
 
             <p>
-              Abgesehen von Inlays oder Einstreu gibt es für die WandaGO soweit
-              kein Zubehör. Vermutlich ist aufgrund der kompakten Größe kein
-              Platz für ein optionales Abluftsystem vorhanden. Wem das Thema
-              Geruchsentwicklung jedoch wichtig ist, kann hier aber ganz simpel
-              mit ein wenig Einstreu arbeiten.
+              Für die Nutzung des WandaGO’s benötigt man Einstreu und Inlays.
+              Hierfür können entweder die Produkte von TROBOLO genutzt werden
+              oder man besorgt sich geeignete Alternativen in Baumarkt und Co.
+            </p>
+
+            <p>
+              Im WandaGO selbst ist zudem ein herausnehmbarer
+              Toilettenpapierspender integriert, den man beispielsweise seitlich
+              an der Campingtoilette anbringen kann, um bequemen Zugriff auf das
+              Toilettenpapier zu haben. Hier wurde an alles gedacht.
             </p>
 
             <h5 class="mb-3 mt-5">Fazit</h5>
 
             <p>
-              Die WandaGO Campingtoilette von TROBOLO ist ultraleicht, kompakt,
-              einfach zu reinigen und ist der ideale mobile Begleiter. Wer ein
-              Wohnmobil, Van oder Camper besitzt oder generell eine mobile
-              Toilette benötigt, dem können wir die WandaGO wärmstens empfehlen.
+              Die Campingtoilette WandaGO ist eine ausgeklügelte Toilette für
+              unterwegs, die sich leicht transportieren und bequem nutzen lässt.
+              Für regelmäßige Camper ist diese Campingtoilette der ideale
+              Begleiter und absolut empfehlenswert. Von unserer Seite gibt es
+              einen Daumen nach oben!
             </p>
 
             <div class="row gy-2 gx-4 mb-5 mt-5">
@@ -177,7 +178,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Campingtoilette TROBOLO WandaGO im Test. Wir testen die kompakte und ultraleichte Campingtoilette die für Wohnmobil, Camper, Van oder PKW konzipiert ist.",
+          "Beim TROBOLO WandaGO handelt es sich um eine leichtgewichtige Campingtoilette, die man ideal in Wohnmobil, Van oder sogar im PKW mitnehmen kann.",
       },
       {
         hid: "robots",
@@ -200,10 +201,10 @@ export default {
           "@type": "Product",
           name: "TROBOLO WandaGO",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-wandago.webp",
+            "https://www.campingtoilette.shop/assets/images/campingtoiletten/campingtoilette-trobolo-wandago.webp",
           ],
           description:
-            "TROBOLO WandaGO - Kompakte und ultraleichte Campingtoilette für unterwegs.",
+            "TROBOLO WandaGO - Mobile Campingtoilette für Wohnmobil, Van und Camper.",
           sku: "P1XX1403",
           mpn: "48648",
           brand: {
@@ -219,13 +220,13 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
             "@type": "AggregateRating",
             ratingValue: "4.9",
-            reviewCount: "10",
+            reviewCount: "25",
           },
           offers: {
             "@type": "Offer",
@@ -245,15 +246,15 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
-                name: "Trockentrenntoiletten",
+                "@id": "https://www.campingtoilette.shop/",
+                name: "Campingtoilette",
               },
             },
             {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/trobolo-wandago/",
+                "@id": "https://www.campingtoilette.shop/trobolo-wandago/",
                 name: "TROBOLO WandaGO",
               },
             },

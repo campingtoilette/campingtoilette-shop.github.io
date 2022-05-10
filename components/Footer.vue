@@ -58,7 +58,7 @@
                 <img
                   class="img-fluid bg-light p-1"
                   src="/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-indiebloem.webp"
-                  alt="TROBOLO IndieBlœm"
+                  alt="TROBOLO IndiBlœm"
                 />
               </div>
               <div class="col-4">
