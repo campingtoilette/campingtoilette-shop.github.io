@@ -144,6 +144,11 @@ export default {
         content:
           "Testbericht zu Kildwick. Kildwick ist ein Hersteller für Trockentrenntoiletten die sich vor allem für den mobilen, wasserlosen Einsatz eignen.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: "noindex, follow",
+      },
     ],
   },
   asyncData() {

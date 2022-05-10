@@ -169,6 +169,11 @@ export default {
         content:
           "Testbericht zu Trelino. Trelino stellt Campingtoiletten her, welche sich für den mobilen Einsatz wie im Camper, VW-Bus, V-Klasse oder Wohnmobil eignen.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: "noindex, follow",
+      },
     ],
   },
   asyncData() {

@@ -175,6 +175,11 @@ export default {
         content:
           "Testbericht zu TROBOLO. TROBOLO stellt autarke, handgefertige Trockentrenntoiletten für's Haus, den Garten, Camper und Wohnmobile her.",
       },
+      {
+        hid: "robots",
+        name: "robots",
+        content: "noindex, follow",
+      },
     ],
   },
   asyncData() {

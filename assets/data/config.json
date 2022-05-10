@@ -50,7 +50,7 @@
             "publish": true
         }, {
             "title": "Hersteller",
-            "linkTo": "#hersteller",
+            "linkTo": "/#hersteller",
             "linkTitle": "Hersteller von Campingtoiletten",
             "publish": true
         },
