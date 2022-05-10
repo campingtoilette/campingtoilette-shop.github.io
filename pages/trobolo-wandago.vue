@@ -172,7 +172,7 @@ const product = products.find((item) => item.name === "TROBOLO WandaGO");
 export default {
   name: "WandaGO",
   head: {
-    title: "TROBOLO® WandaGO Campingtoilette im Test",
+    title: "Campingtoilette TROBOLO® WandaGO Testbericht",
     meta: [
       {
         hid: "description",
