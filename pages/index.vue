@@ -270,6 +270,8 @@
     </div>
     <!-- Hersteller End -->
 
+    <SeoTextIndex />
+
     <!-- Innenbereich Start -->
     <!-- <div class="container-xxl py-5" id="produkte">
       <div class="container">
