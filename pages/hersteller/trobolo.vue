@@ -200,10 +200,10 @@ export default {
           description:
             "TROBOLO ist ein Hersteller von Trockentrenntoiletten für den Innen- und Außenbereich.",
           telephone: "+4951151510816",
-          url: "https://www.trockentrenntoilette.net/hersteller/trobolo/",
-          logo: "https://www.trockentrenntoilette.net/assets/images/logos/trobolo.png",
+          url: "https://www.campingtoilette.shop/hersteller/trobolo/",
+          logo: "https://www.campingtoilette.shop/assets/images/logos/trobolo.png",
           image:
-            "https://www.trockentrenntoilette.net/assets/images/hersteller/trobolo.webp",
+            "https://www.campingtoilette.shop/assets/images/hersteller/trobolo.webp",
           priceRange: "$",
           aggregateRating: {
             "@type": "AggregateRating",
@@ -229,7 +229,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -237,8 +237,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id":
-                  "https://www.trockentrenntoilette.net/hersteller/trobolo/",
+                "@id": "https://www.campingtoilette.shop/hersteller/trobolo/",
                 name: "TROBOLO",
               },
             },

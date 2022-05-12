@@ -139,7 +139,7 @@ export default {
           "@type": "Product",
           name: this.product.name,
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/zubehoer/einstreu/trobolo-einstreu.webp",
+            "https://www.campingtoilette.shop/assets/images/zubehoer/einstreu/trobolo-einstreu.webp",
           ],
           description:
             "Der Einstreu für Trockentrenntoiletten von TROBOLO besteht zu 80% aus Kiefer und 20% aus Erle. Lieferung im ökologischen Kraftpapiersack",
@@ -158,7 +158,7 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
@@ -168,7 +168,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/zubehoer/einstreu/trobolo-einstreu/",
+            url: "https://www.campingtoilette.shop/zubehoer/einstreu/trobolo-einstreu/",
             priceCurrency: "EUR",
             price: String(this.product.schemaPrice),
             priceValidUntil: "2024-11-20",
@@ -184,7 +184,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -193,7 +193,7 @@ export default {
               position: 2,
               item: {
                 "@id":
-                  "https://www.trockentrenntoilette.net/zubehoer/einstreu/trobolo-einstreu/",
+                  "https://www.campingtoilette.shop/zubehoer/einstreu/trobolo-einstreu/",
                 name: this.product.name,
               },
             },

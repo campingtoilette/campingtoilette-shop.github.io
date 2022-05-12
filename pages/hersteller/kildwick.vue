@@ -169,10 +169,10 @@ export default {
           description:
             "Kildwick ist ein Hersteller für Trockentrenntoiletten die sich vor allem für den mobilen, wasserlosen Einsatz eignen.",
           telephone: "+4934135521876",
-          url: "https://www.trockentrenntoilette.net/hersteller/kildwick/",
-          logo: "https://www.trockentrenntoilette.net/assets/images/logos/kildwick.png",
+          url: "https://www.campingtoilette.shop/hersteller/kildwick/",
+          logo: "https://www.campingtoilette.shop/assets/images/logos/kildwick.png",
           image:
-            "https://www.trockentrenntoilette.net/assets/images/hersteller/kildwick.webp",
+            "https://www.campingtoilette.shop/assets/images/hersteller/kildwick.webp",
           priceRange: "$$",
           aggregateRating: {
             "@type": "AggregateRating",
@@ -198,7 +198,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -206,8 +206,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id":
-                  "https://www.trockentrenntoilette.net/hersteller/kildwick/",
+                "@id": "https://www.campingtoilette.shop/hersteller/kildwick/",
                 name: "Kildwick",
               },
             },

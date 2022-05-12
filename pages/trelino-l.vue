@@ -216,7 +216,7 @@ export default {
           "@type": "Product",
           name: "Trelino L mit HPL Veredelung",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp",
+            "https://www.campingtoilette.shop/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp",
           ],
           description:
             "Trelino L - Trockentrenntoilette mit HPL Veredelung für den mobilen Einsatz wie Camping, Tiny Häuser, Wohnmobile und Vans.",
@@ -235,7 +235,7 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
@@ -245,7 +245,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/trelino-l/",
+            url: "https://www.campingtoilette.shop/trelino-l/",
             priceCurrency: "EUR",
             price: "799.00",
             priceValidUntil: "2024-11-20",
@@ -261,7 +261,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -269,7 +269,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/trelino-l/",
+                "@id": "https://www.campingtoilette.shop/trelino-l/",
                 name: "Trelino L",
               },
             },

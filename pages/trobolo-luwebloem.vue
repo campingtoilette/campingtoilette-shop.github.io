@@ -227,7 +227,7 @@ export default {
           "@type": "Product",
           name: "TROBOLO LuweBlœm",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp",
+            "https://www.campingtoilette.shop/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp",
           ],
           description:
             "TROBOLO LuweBlœm - Handgefertigte Trockentrenntoilette aus massivem Erlen-Mehrschichtholz für den Innenbereich. Optionales Abluftsystem ist vorhanden.",
@@ -246,7 +246,7 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
@@ -256,7 +256,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/trobolo-luweboem/",
+            url: "https://www.campingtoilette.shop/trobolo-luweboem/",
             priceCurrency: "EUR",
             price: "679.00",
             priceValidUntil: "2024-11-20",
@@ -272,7 +272,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -280,8 +280,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id":
-                  "https://www.trockentrenntoilette.net/trobolo-luwebloem/",
+                "@id": "https://www.campingtoilette.shop/trobolo-luwebloem/",
                 name: "TROBOLO luwebloem",
               },
             },

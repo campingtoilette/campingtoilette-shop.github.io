@@ -203,7 +203,7 @@ export default {
           "@type": "Product",
           name: "TROBOLO TeraBlœm",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
+            "https://www.campingtoilette.shop/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-terabloem.webp",
           ],
           description:
             "TROBOLO TeraBlœm - Handgefertigte Trockentrenntoilette mit Trennsystem für den Innenbereich.",
@@ -222,7 +222,7 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
@@ -232,7 +232,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/trobolo-terabloem/",
+            url: "https://www.campingtoilette.shop/trobolo-terabloem/",
             priceCurrency: "EUR",
             price: "429.00",
             priceValidUntil: "2024-11-20",
@@ -248,7 +248,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -256,8 +256,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id":
-                  "https://www.trockentrenntoilette.net/trobolo-terabloem/",
+                "@id": "https://www.campingtoilette.shop/trobolo-terabloem/",
                 name: "TROBOLO TeraBlœm",
               },
             },

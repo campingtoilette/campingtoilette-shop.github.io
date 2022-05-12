@@ -236,7 +236,7 @@ export default {
           "@type": "Product",
           name: "Kildwick MiniLoo",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp",
+            "https://www.campingtoilette.shop/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp",
           ],
           description:
             "Die MiniLoo Campingtoilette von Kildwick ist eine sehr kompakte Trockentrenntoilette, welche als vorgefertiger Bausatz geliefert wird. Lesen Sie unseren Testbericht.",
@@ -255,7 +255,7 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
@@ -265,7 +265,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/kildwick-miniloo/",
+            url: "https://www.campingtoilette.shop/kildwick-miniloo/",
             priceCurrency: "EUR",
             price: "399.00",
             priceValidUntil: "2024-11-20",
@@ -281,7 +281,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -289,7 +289,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/kildwick-miniloo/",
+                "@id": "https://www.campingtoilette.shop/kildwick-miniloo/",
                 name: "Kildwick MiniLoo",
               },
             },

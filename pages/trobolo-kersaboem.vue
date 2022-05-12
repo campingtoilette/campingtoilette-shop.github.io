@@ -238,7 +238,7 @@ export default {
           "@type": "Product",
           name: "TROBOLO KersaBœm",
           image: [
-            "https://www.trockentrenntoilette.net/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp",
+            "https://www.campingtoilette.shop/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-kersaboem.webp",
           ],
           description:
             "Die Gartentoilette KersaBœm von TROBOLO ist eine autarke Trockentrenntoilette welche als vorgefertigter Bausatz geliefert wird.",
@@ -257,7 +257,7 @@ export default {
             },
             author: {
               "@type": "Organization",
-              name: "Trockentrenntoilette.net",
+              name: "Campingtoilette.shop",
             },
           },
           aggregateRating: {
@@ -267,7 +267,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.trockentrenntoilette.net/trobolo-kersaboem/",
+            url: "https://www.campingtoilette.shop/trobolo-kersaboem/",
             priceCurrency: "EUR",
             price: "399.00",
             priceValidUntil: "2024-11-20",
@@ -283,7 +283,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -291,8 +291,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id":
-                  "https://www.trockentrenntoilette.net/trobolo-kersaboem/",
+                "@id": "https://www.campingtoilette.shop/trobolo-kersaboem/",
                 name: "TROBOLO KersaBœm",
               },
             },

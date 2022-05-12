@@ -194,10 +194,10 @@ export default {
           description:
             "Trelino stellt kompakte Campingtoiletten mit Trennsystem her. Sie eignen sich ideal für Orte an denen wenig Platz verfügbar ist wie Camper, VW-Bus, Mercedes V-Klasse oder Wohnmobil. Die Produkte benötigen kein Wasser oder Chemie.",
           telephone: "+4921194256059",
-          url: "https://www.trockentrenntoilette.net/hersteller/trelino/",
-          logo: "https://www.trockentrenntoilette.net/assets/images/logos/trelino.webp",
+          url: "https://www.campingtoilette.shop/hersteller/trelino/",
+          logo: "https://www.campingtoilette.shop/assets/images/logos/trelino.webp",
           image:
-            "https://www.trockentrenntoilette.net/assets/images/hersteller/trelino.webp",
+            "https://www.campingtoilette.shop/assets/images/hersteller/trelino.webp",
           priceRange: "$$",
           aggregateRating: {
             "@type": "AggregateRating",
@@ -223,7 +223,7 @@ export default {
               "@type": "ListItem",
               position: 1,
               item: {
-                "@id": "https://www.trockentrenntoilette.net/",
+                "@id": "https://www.campingtoilette.shop/",
                 name: "Trockentrenntoiletten",
               },
             },
@@ -231,8 +231,7 @@ export default {
               "@type": "ListItem",
               position: 2,
               item: {
-                "@id":
-                  "https://www.trockentrenntoilette.net/hersteller/trelino/",
+                "@id": "https://www.campingtoilette.shop/hersteller/trelino/",
                 name: "Trelino",
               },
             },
