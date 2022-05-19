@@ -27,11 +27,11 @@
                 href="https://twitter.com/Trockentrennto1"
                 ><i class="fab fa-twitter"></i
               ></a>
-              <a
+              <!-- <a
                 class="btn btn-outline-light btn-social"
                 href="https://github.com/trenntoilette-net/trockentrenntoilette-net.github.io"
                 ><i class="fab fa-github"></i
-              ></a>
+              ></a> -->
               <!-- <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-facebook-f"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-youtube"></i></a>
                         <a class="btn btn-outline-light btn-social" href=""><i class="fab fa-linkedin-in"></i></a> -->
