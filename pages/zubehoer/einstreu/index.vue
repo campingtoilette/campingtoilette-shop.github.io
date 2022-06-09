@@ -6,7 +6,7 @@
           <div class="section-title bg-white text-center text-primary px-3 h6">
             Testsieger
           </div>
-          <h1 class="mb-5">Einstreu für die Trockentrenntoilette</h1>
+          <h1 class="mb-5">Einstreu für die Campingtoilette</h1>
         </div>
       </div>
       <div class="container">
@@ -30,7 +30,7 @@ import products from "~/assets/einstreu.json";
 export default {
   name: "einstreu",
   head: {
-    title: "Einstreu für die Trockentrenntoilette",
+    title: "Einstreu für die Campingtoilette",
     meta: [
       {
         hid: "description",
