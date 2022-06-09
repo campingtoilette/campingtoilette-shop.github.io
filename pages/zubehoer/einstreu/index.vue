@@ -36,7 +36,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Das richtige Einstreu für die Trockentrenntoilette. Markenprodukte im Test: Material, Geruchsentwicklung, Nutzungsanzahl. Produktvergleich und Empfehlungen.",
+          "Einstreu für die Campingtoilette. Finde das richtige Einstreu um die Geruchsentwicklung deiner Campingtoilette zu verhindern. Qualitäts-Produkte auf Lager.",
       },
     ],
   },
