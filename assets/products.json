@@ -1,4 +1,5 @@
-[{
+[
+    {
         "brand": "TROBOLO",
         "name": "TROBOLO WandaGO",
         "category": "Campingtoilette",
@@ -21,7 +22,8 @@
         "seo": {
             "robots": "index, follow"
         }
-    }, {
+    },
+    {
         "brand": "TROBOLO",
         "name": "TROBOLO TeraBlœm",
         "category": "Innenbereich",
@@ -230,6 +232,29 @@
         "publish": true,
         "seo": {
             "robots": "noindex, follow"
+        }
+    },
+    {
+        "brand": "Trelino",
+        "name": "Trelino Evo S",
+        "category": "Campingtoilette",
+        "material": "Kunststoff",
+        "size": "Höhe 290 - Tiefe 390 - Breite 330 mm",
+        "weight": "4,3 kg",
+        "payload": "-",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/trelino/",
+        "linkTitle": "Trelino Evo S",
+        "linkTo": "#",
+        "stars": 4,
+        "price": "299,00",
+        "reviewCount": 1,
+        "image": "/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp",
+        "shopLink": "https://www.trelino.com/de/products/trelino%C2%AE-evo-s",
+        "featured": 1,
+        "publish": true,
+        "seo": {
+            "robots": "index, follow"
         }
     }
 ]
