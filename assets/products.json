@@ -253,6 +253,7 @@
         "shopLink": "https://www.trelino.com/de/products/trelino%C2%AE-evo-s",
         "featured": 1,
         "publish": true,
+        "winner": true,
         "seo": {
             "robots": "index, follow"
         }
