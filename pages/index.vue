@@ -6,12 +6,9 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <img
-                class="img-fluid position-absolute w-100 h-100"
-                src="/assets/images/feature-campingtoilette-trobolo-wandago.webp"
-                :alt="config.seo.mainKeyword"
-                style="object-fit: cover; object-position: center bottom"
-              />
+              <img class="img-fluid position-absolute w-100 h-100"
+                src="/assets/images/feature-campingtoilette-trobolo-wandago.webp" :alt="config.seo.mainKeyword"
+                style="object-fit: cover; object-position: center bottom" />
             </div>
           </div>
           <div class="col-lg-6 fadeInUp">
@@ -23,8 +20,7 @@
             <div class="row gy-2 gx-4 mb-4">
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Funktionalität
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Funktionalität
                 </p>
               </div>
               <div class="col-sm-6">
@@ -34,14 +30,12 @@
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Nachhaltigkeit
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Nachhaltigkeit
                 </p>
               </div>
               <div class="col-sm-6">
                 <p class="mb-0">
-                  <i class="fa fa-arrow-right text-primary me-2"></i
-                  >Geruchsentwicklung
+                  <i class="fa fa-arrow-right text-primary me-2"></i>Geruchsentwicklung
                 </p>
               </div>
               <div class="col-sm-6">
@@ -56,9 +50,7 @@
                 </p>
               </div>
             </div>
-            <a class="btn btn-primary py-3 px-5 mt-2" href="#testsieger"
-              >Zu den Testsiegern</a
-            >
+            <a class="btn btn-primary py-3 px-5 mt-2" href="#testsieger">Zu den Testsiegern</a>
           </div>
         </div>
       </div>
@@ -136,23 +128,15 @@
           <div class="col-lg-7 col-md-6">
             <div class="row g-3">
               <div class="col-lg-12 col-md-12 zoomIn">
-                <NuxtLink
-                  class="position-relative d-block overflow-hidden"
-                  to="/hersteller/trobolo/"
-                  title="Mehr über TROBOLO erfahren"
-                >
+                <NuxtLink class="position-relative d-block overflow-hidden" to="/hersteller/trobolo/"
+                  title="Mehr über TROBOLO erfahren">
                   <div class="grayscaleContainer">
-                    <img
-                      class="img-fluid grayscale"
-                      src="/assets/images/hersteller/trobolo.webp"
-                      alt="TROBOLO"
-                    />
+                    <img class="img-fluid grayscale" src="/assets/images/hersteller/trobolo.webp" alt="TROBOLO" />
                     <div class="overlay">
                       <div class="overlayText">TROBOLO</div>
                     </div>
                   </div>
-                  <div
-                    class="
+                  <div class="
                       bg-white
                       text-center
                       position-absolute
@@ -160,32 +144,22 @@
                       end-0
                       py-2
                       px-3
-                    "
-                    style="margin: 1px"
-                  >
+                    " style="margin: 1px">
                     <h5 class="m-0">TROBOLO</h5>
                     <!-- <small class="text-primary">Deutschland</small> -->
                   </div>
                 </NuxtLink>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
-                <NuxtLink
-                  class="position-relative d-block overflow-hidden"
-                  to="/hersteller/trelino/"
-                  title="Mehr über Trelino erfahren"
-                >
+                <NuxtLink class="position-relative d-block overflow-hidden" to="/hersteller/trelino/"
+                  title="Mehr über Trelino erfahren">
                   <div class="grayscaleContainer">
-                    <img
-                      class="img-fluid grayscale"
-                      src="/assets/images/hersteller/trelino.webp"
-                      alt="Trelino"
-                    />
+                    <img class="img-fluid grayscale" src="/assets/images/hersteller/trelino.webp" alt="Trelino" />
                     <div class="overlay">
                       <div class="overlayText">Trelino</div>
                     </div>
                   </div>
-                  <div
-                    class="
+                  <div class="
                       bg-white
                       text-center
                       position-absolute
@@ -193,32 +167,22 @@
                       end-0
                       py-2
                       px-3
-                    "
-                    style="margin: 1px"
-                  >
+                    " style="margin: 1px">
                     <h5 class="m-0">Trelino</h5>
                     <!-- <small class="text-primary">49 Courses</small> -->
                   </div>
                 </NuxtLink>
               </div>
               <div class="col-lg-6 col-md-12 zoomIn">
-                <NuxtLink
-                  class="position-relative d-block overflow-hidden"
-                  to="/hersteller/kildwick/"
-                  title="Mehr über Kildwick erfahren"
-                >
+                <NuxtLink class="position-relative d-block overflow-hidden" to="/hersteller/kildwick/"
+                  title="Mehr über Kildwick erfahren">
                   <div class="grayscaleContainer">
-                    <img
-                      class="img-fluid grayscale"
-                      src="/assets/images/hersteller/kildwick.webp"
-                      alt="Trelino"
-                    />
+                    <img class="img-fluid grayscale" src="/assets/images/hersteller/kildwick.webp" alt="Trelino" />
                     <div class="overlay">
                       <div class="overlayText">Kildwick</div>
                     </div>
                   </div>
-                  <div
-                    class="
+                  <div class="
                       bg-white
                       text-center
                       position-absolute
@@ -226,9 +190,7 @@
                       end-0
                       py-2
                       px-3
-                    "
-                    style="margin: 1px"
-                  >
+                    " style="margin: 1px">
                     <h5 class="m-0">Kildwick</h5>
                     <!-- <small class="text-primary">49 Courses</small> -->
                   </div>
@@ -239,17 +201,13 @@
           <div class="col-lg-5 col-md-6 zoomIn" style="min-height: 350px">
             <a class="position-relative d-block h-100 overflow-hidden" href="">
               <div class="grayscaleContainer">
-                <img
-                  class="img-fluid grayscale"
-                  src="/assets/images/hersteller/meinetrenntoilette.webp"
-                  alt="MeineTrenntoilette"
-                />
+                <img class="img-fluid grayscale" src="/assets/images/hersteller/meinetrenntoilette.webp"
+                  alt="MeineTrenntoilette" />
                 <div class="overlay">
                   <div class="overlayText">Meine Trenntoilette</div>
                 </div>
               </div>
-              <div
-                class="
+              <div class="
                   bg-white
                   text-center
                   position-absolute
@@ -257,9 +215,7 @@
                   end-0
                   py-2
                   px-3
-                "
-                style="margin: 1px"
-              >
+                " style="margin: 1px">
                 <h5 class="m-0">Meine Trenntoilette</h5>
                 <!-- <small class="text-primary">Deutschland</small> -->
               </div>
@@ -351,18 +307,11 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
-                  class="img-fluid"
-                  src="/assets/images/img/team-1.jpg"
-                  alt=""
-                />
+                <img class="img-fluid" src="/assets/images/img/team-1.jpg" alt="" />
               </div>
-              <div
-                class="position-relative d-flex justify-content-center"
-                style="margin-top: -23px"
-              >
+              <div class="position-relative d-flex justify-content-center" style="margin-top: -23px">
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1"
+                  <!-- <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-facebook-f"></i
                   ></a>
                   <a class="btn btn-sm-square btn-primary mx-1"
@@ -370,7 +319,7 @@
                   ></a>
                   <a class="btn btn-sm-square btn-primary mx-1"
                     ><i class="fab fa-instagram"></i
-                  ></a>
+                  ></a> -->
                 </div>
               </div>
               <div class="text-center p-4">
@@ -382,26 +331,13 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
-                  class="img-fluid"
-                  src="/assets/images/img/team-2.jpg"
-                  alt=""
-                />
+                <img class="img-fluid" src="/assets/images/img/team-2.jpg" alt="" />
               </div>
-              <div
-                class="position-relative d-flex justify-content-center"
-                style="margin-top: -23px"
-              >
+              <div class="position-relative d-flex justify-content-center" style="margin-top: -23px">
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-instagram"></i
-                  ></a>
+                  <!-- <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-facebook-f"></i></a>
+                  <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-twitter"></i></a>
+                  <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-instagram"></i></a> -->
                 </div>
               </div>
               <div class="text-center p-4">
@@ -413,26 +349,13 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
-                  class="img-fluid"
-                  src="/assets/images/img/team-3.jpg"
-                  alt=""
-                />
+                <img class="img-fluid" src="/assets/images/img/team-3.jpg" alt="" />
               </div>
-              <div
-                class="position-relative d-flex justify-content-center"
-                style="margin-top: -23px"
-              >
+              <div class="position-relative d-flex justify-content-center" style="margin-top: -23px">
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-instagram"></i
-                  ></a>
+                  <!-- <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-facebook-f"></i></a>
+                  <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-twitter"></i></a>
+                  <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-instagram"></i></a> -->
                 </div>
               </div>
               <div class="text-center p-4">
@@ -444,26 +367,13 @@
           <div class="col-lg-3 col-md-6 fadeInUp">
             <div class="team-item bg-light">
               <div class="overflow-hidden">
-                <img
-                  class="img-fluid"
-                  src="/assets/images/img/team-4.jpg"
-                  alt=""
-                />
+                <img class="img-fluid" src="/assets/images/img/team-4.jpg" alt="" />
               </div>
-              <div
-                class="position-relative d-flex justify-content-center"
-                style="margin-top: -23px"
-              >
+              <div class="position-relative d-flex justify-content-center" style="margin-top: -23px">
                 <div class="bg-light d-flex justify-content-center pt-2 px-1">
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-facebook-f"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-twitter"></i
-                  ></a>
-                  <a class="btn btn-sm-square btn-primary mx-1"
-                    ><i class="fab fa-instagram"></i
-                  ></a>
+                  <!-- <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-facebook-f"></i></a>
+                  <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-twitter"></i></a>
+                  <a class="btn btn-sm-square btn-primary mx-1"><i class="fab fa-instagram"></i></a> -->
                 </div>
               </div>
               <div class="text-center p-4">
