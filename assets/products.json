@@ -1,5 +1,4 @@
-[
-    {
+[{
         "brand": "TROBOLO",
         "name": "TROBOLO WandaGO",
         "category": "Campingtoilette",
@@ -244,13 +243,37 @@
         "payload": "-",
         "function": "Trennsystem",
         "manufacturerLink": "/hersteller/trelino/",
-        "linkTitle": "Trelino Evo S",
+        "linkTitle": "Trelino Evo S im Test",
         "linkTo": "/trelino-evo-s/",
         "stars": 4,
         "price": "299,00",
         "reviewCount": 1,
         "image": "/assets/images/campingtoiletten/campingtoilette-trelino-evo-s.webp",
         "shopLink": "https://www.trelino.com/de/products/trelino%C2%AE-evo-s",
+        "featured": 1,
+        "publish": true,
+        "winner": true,
+        "seo": {
+            "robots": "index, follow"
+        }
+    },
+    {
+        "brand": "Trelino",
+        "name": "Lokus Flatus",
+        "category": "Campingtoilette",
+        "material": "Kunststoff",
+        "size": "Höhe 335 - Tiefe 400 - Breite 300 mm",
+        "weight": "4,6 kg",
+        "payload": "150 kg",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/trelino/",
+        "linkTitle": "Lokus Flatus im Test",
+        "linkTo": "/lokus-flatus/",
+        "stars": 4,
+        "price": "199,00",
+        "reviewCount": 79,
+        "image": "/assets/images/campingtoiletten/campingtoilette-lokus-flatus.webp",
+        "shopLink": "https://www.meinetrenntoilette.de/products/lokus-flatus-trenntoilette",
         "featured": 1,
         "publish": true,
         "winner": true,
