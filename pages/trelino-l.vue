@@ -180,9 +180,7 @@
 <script>
 import products from "~/assets/products.json";
 
-const product = products.find(
-  (item) => item.name === "Trelino L mit HPL Veredelung"
-);
+const product = products.find((item) => item.name === "Trelino Timber L");
 
 export default {
   name: "TrelinoLMitHplVeredelung",
