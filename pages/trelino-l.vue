@@ -1,8 +1,8 @@
 <template>
   <div>
     <ProductHeader
-      productName="Trelio L mit HPL Veredelung"
-      textContent="Die Trelino L ist eine Trockentoilette aus dem Hause Trelino. Sie ist aus Birkenholz angefertigt und mit robustem HPL veredelt."
+      productName="Trelino Timber L mit HPL Veredelung"
+      textContent="Die Trelino Timber L ist eine Trockentoilette aus dem Hause Trelino. Sie ist aus Birkenholz angefertigt und mit robustem HPL veredelt."
       productImage="/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp"
     ></ProductHeader>
 
@@ -13,7 +13,7 @@
           <div class="col-lg-8 fadeInUp" style="min-height: 400px">
             <h2 class="mb-4">Testbericht</h2>
             <p class="mb-4">
-              Die Trelino L ist eine Trockentrenntoilette, welche für den
+              Die Trelino Timber L ist eine Trockentrenntoilette, welche für den
               mobilen Einsatz konzipiert ist. Sie ist sofort einsatzbereit und
               ideal für den mobilen Einsatz wie Wohnmobile, Kastenwagen, Tiny
               Häuser, beim Camping oder auch für das Gartenhaus.
@@ -22,8 +22,8 @@
             <h5 class="mb-3 mt-5">Komfort</h5>
 
             <p>
-              Die Trelino L hat einen ausgezeichneten Sitzkomfort und steht, wie
-              auch bei der
+              Die Trelino Timber L hat einen ausgezeichneten Sitzkomfort und
+              steht, wie auch bei der
               <NuxtLink
                 to="/trobolo-terabloem/"
                 title="TROBOLO TeraBlœm im Test"
@@ -37,12 +37,12 @@
             <h5 class="mb-3 mt-5">Eckdaten</h5>
 
             <p>
-              Die mobile Trelino L Trockentrenntoilette hat ein Gewicht von 8,2
-              kg und eine Belastbarkeit von 150 kg. Sie ist 316 mm breit, 386 mm
-              tief und 468 mm hoch. Die Sitzhöhe beträgt 42,5 cm. Der
-              Urinkanister umfasst ein Aufbewahrungsvermögen von 10 Litern und
-              der Feststoffbehälter ein Aufbewahrungsvermögen von 10,6 Litern.
-              Der Trenneinsatz ist aus hochglänzender ABS
+              Die mobile Trelino Timber L Trockentrenntoilette hat ein Gewicht
+              von 8,2 kg und eine Belastbarkeit von 150 kg. Sie ist 316 mm
+              breit, 386 mm tief und 468 mm hoch. Die Sitzhöhe beträgt 42,5 cm.
+              Der Urinkanister umfasst ein Aufbewahrungsvermögen von 10 Litern
+              und der Feststoffbehälter ein Aufbewahrungsvermögen von 10,6
+              Litern. Der Trenneinsatz ist aus hochglänzender ABS
               (Acrylnitril-Butadien-Styrol) Oberfläche mit säurebeständiger
               PMMA-Beschichtung. Der Behälter besteht aus Polyethylen (PE), ist
               recyclebar und ebenfalls säurebeständig.
@@ -53,19 +53,19 @@
             </h5>
 
             <p>
-              Die Trelino L Trockentrenntoilette funktioniert über einen
+              Die Trelino Timber L Trockentrenntoilette funktioniert über einen
               Trenneinsatz. Urin- und Feststoffbehälter sind voneinander
               getrennt. Hierdurch wird auch die Geruchsentwicklung verhindert.
-              Die Trelino L benötigt kein Wasser oder Chemie. Somit ist sie
-              überall sofort einsetzbar. Auch aufgrund der kompakten Größe und
-              des Gewichtes eignet sich diese mobile Trockentrenntoilette ideal
-              für Anwendungen wie im Wohnmobil, als Campingtoilette oder für den
-              Einsatz im Gartenhäuschen. Die verwendeten Materialien sind
-              qualitativ und erwecken einen robusten und beständigen Eindruck.
-              Die Scharniere des Toilettendeckels sind aus Edelstahl und somit
-              vor Oxidation geschützt. Das Birkenholz besteht aus mehreren
-              Schichten und erzeugt ebenfalls einen qualitativen und robusten
-              Eindruck.
+              Die Trelino Timber L benötigt kein Wasser oder Chemie. Somit ist
+              sie überall sofort einsetzbar. Auch aufgrund der kompakten Größe
+              und des Gewichtes eignet sich diese mobile Trockentrenntoilette
+              ideal für Anwendungen wie im Wohnmobil, als Campingtoilette oder
+              für den Einsatz im Gartenhäuschen. Die verwendeten Materialien
+              sind qualitativ und erwecken einen robusten und beständigen
+              Eindruck. Die Scharniere des Toilettendeckels sind aus Edelstahl
+              und somit vor Oxidation geschützt. Das Birkenholz besteht aus
+              mehreren Schichten und erzeugt ebenfalls einen qualitativen und
+              robusten Eindruck.
             </p>
 
             <p>
@@ -83,12 +83,12 @@
             </p>
 
             <p>
-              Trelino nutzt für die Herstellung der Trelino L recyclefähige
-              Materialien um die Produktion nachhaltig zu gestalten. Die
-              Produktion findet in Deutschland statt und hat somit kurze
-              Lieferwege. Trelino stellt Produkte mit hoher Qualität her, welche
-              eine lange Lebensdauer aufweisen und somit keine "Wegwerfprodukte"
-              sind.
+              Trelino nutzt für die Herstellung der Trelino Timber L
+              recyclefähige Materialien um die Produktion nachhaltig zu
+              gestalten. Die Produktion findet in Deutschland statt und hat
+              somit kurze Lieferwege. Trelino stellt Produkte mit hoher Qualität
+              her, welche eine lange Lebensdauer aufweisen und somit keine
+              "Wegwerfprodukte" sind.
             </p>
 
             <h5 class="mb-3 mt-5">Zubehör</h5>
@@ -101,19 +101,20 @@
             <h5 class="mb-3 mt-5">Fazit</h5>
 
             <p>
-              Die Trelino L mit HPL Veredelung ist eine qualitative, kompakte
-              Trockentrenntoilette, welche sich herrvorragend für den mobilen
-              Einsatz eignet. Durch die HPL Veredelung haben wir hier ein
-              Produkt welches sehr Nachhaltig ist. Die Wasserbeständigkeit, das
-              mehrschichtige Birkenholz und die festen Scharniere aus Edelstahl,
-              sowie aber auch die Einfachheit der Entleerung und Hygiene, machen
-              die Trelino L zu einem optimalem Reisebegleiter.
+              Die Trelino Timber L mit HPL Veredelung ist eine qualitative,
+              kompakte Trockentrenntoilette, welche sich herrvorragend für den
+              mobilen Einsatz eignet. Durch die HPL Veredelung haben wir hier
+              ein Produkt welches sehr Nachhaltig ist. Die Wasserbeständigkeit,
+              das mehrschichtige Birkenholz und die festen Scharniere aus
+              Edelstahl, sowie aber auch die Einfachheit der Entleerung und
+              Hygiene, machen die Trelino Timber L zu einem optimalem
+              Reisebegleiter.
             </p>
 
             <p>
               Aufgrund der Mobilität, der Funktionaltiät, der Nachhaltigkeit des
               Produktes, der Einfacheit der Entleerung sowie der Hygiene,
-              vergeben wir der Trelino L von Trelino eine Bestnote in der
+              vergeben wir der Trelino Timber L von Trelino eine Bestnote in der
               Kategorie mobile Trockentrenntoiletten.
             </p>
 
@@ -185,13 +186,13 @@ const product = products.find((item) => item.name === "Trelino Timber L");
 export default {
   name: "TrelinoLMitHplVeredelung",
   head: {
-    title: "Trelino L mit HPL Veredelung im Test",
+    title: "Trelino Timber L mit HPL Veredelung im Test",
     meta: [
       {
         hid: "description",
         name: "description",
         content:
-          "Trockentrenntoilette Trelino L mit HPL Veredelung im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
+          "Trockentrenntoilette Trelino Timber L mit HPL Veredelung im Test. Vorteile und Nachteile. Kriterien: Geruchtsentwicklung, Komfort, Hygiene, Entlerrung und Preis.",
       },
       {
         hid: "robots",
@@ -212,12 +213,12 @@ export default {
         {
           "@context": "https://schema.org/",
           "@type": "Product",
-          name: "Trelino L mit HPL Veredelung",
+          name: "Trelino Timber L mit HPL Veredelung",
           image: [
             "https://www.campingtoilette.shop/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp",
           ],
           description:
-            "Trelino L - Trockentrenntoilette mit HPL Veredelung für den mobilen Einsatz wie Camping, Tiny Häuser, Wohnmobile und Vans.",
+            "Trelino Timber L - Trockentrenntoilette mit HPL Veredelung für den mobilen Einsatz wie Camping, Tiny Häuser, Wohnmobile und Vans.",
           sku: "T1-02502",
           // mpn: "24542",
           brand: {
@@ -268,7 +269,7 @@ export default {
               position: 2,
               item: {
                 "@id": "https://www.campingtoilette.shop/trelino-l/",
-                name: "Trelino L",
+                name: "Trelino Timber L",
               },
             },
           ],
