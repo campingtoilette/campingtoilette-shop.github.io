@@ -13,7 +13,8 @@
             "robots": "index, follow"
         }
     },
-    "categories": [{
+    "categories": [
+        {
             "key": "campingtoilette",
             "name": "Campingtoiletten",
             "productCategory": "Campingtoilette",
@@ -44,7 +45,8 @@
             }
         }
     ],
-    "navigationLinks": [{
+    "navigationLinks": [
+        {
             "title": "Home",
             "linkTo": "/",
             "linkTitle": "Campingtoiletten",
@@ -59,7 +61,8 @@
         {
             "title": "Einsatzgebiete",
             "publish": true,
-            "subLinks": [{
+            "subLinks": [
+                {
                     "title": "Innenbereich",
                     "linkTo": "/kategorie/innenbereich/",
                     "linkTitle": "Trenntoiletten für den Innenbereich",
@@ -82,12 +85,20 @@
         {
             "title": "Zubehör",
             "publish": true,
-            "subLinks": [{
-                "title": "Einstreu",
-                "linkTo": "/zubehoer/einstreu/",
-                "linkTitle": "Einstreu für die Campingtoilette",
-                "publish": true
-            }]
+            "subLinks": [
+                {
+                    "title": "Einstreu",
+                    "linkTo": "/zubehoer/einstreu/",
+                    "linkTitle": "Einstreu für die Campingtoilette",
+                    "publish": true
+                }
+            ]
+        },
+        {
+            "title": "Blog",
+            "publish": true,
+            "linkTo": "/blog/",
+            "linkTitle": "Campingtoiletten Blog"
         },
         {
             "title": "Kontakt",
