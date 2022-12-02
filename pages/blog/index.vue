@@ -1,6 +1,7 @@
 <template>
     <div>
-        <BlogHeader />
+        <BlogHeader image="/assets/images/feature-campingtoiletten-blog-header.jpg" title="Blog" subtitle="Wir informieren Sie über die neuesten Trends und Entwicklungen im Bereich Camping &
+                                Campingtoiletten." />
 
         <div class="row">
             <div class="container">
@@ -16,21 +17,14 @@
 
 <script>
 
-const articles = [
-    {
-        title: 'Campingtoiletten Vergleich 2022',
-        subtitle: 'Die beste mobile Toilette für kleine Camper – Acht Modelle im Vergleich',
-        image: '/assets/images/blog/campingtoiletten-vergleich-2022.jpg',
-        link: '/blog/campingtoiletten-vergleich-2022/',
-        date: '2022-11-30',
-    }
-]
+import config from "/assets/data/config.json"
 
 export default {
     name: 'BlogIndex',
     data() {
         return {
-            articles
+            articles: config.blogArticles,
+            config,
         }
     }
 }

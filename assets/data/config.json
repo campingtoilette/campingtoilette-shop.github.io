@@ -106,5 +106,14 @@
             "linkTo": "#kontakt",
             "publish": false
         }
+    ],
+    "blogArticles": [
+        {
+            "title": "Campingtoiletten Vergleich 2022",
+            "subtitle": "Die beste mobile Toilette für kleine Camper – Acht Modelle im Vergleich",
+            "image": "/assets/images/blog/campingtoiletten-vergleich-2022.jpg",
+            "link": "/blog/campingtoiletten-vergleich-2022/",
+            "date": "2022-11-30"
+        }
     ]
 }

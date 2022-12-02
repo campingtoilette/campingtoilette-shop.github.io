@@ -6,20 +6,22 @@
                     :alt="article.title" />
             </nuxt-link>
             <div class="card-body">
+                <p class="card-text">
+                    {{ article.date }}
+                </p>
                 <nuxt-link :to="article.link" :title="article.title">
                     <h5 class="card-title">
                         {{ article.title }}
                     </h5>
                 </nuxt-link>
-                <!-- <p class="card-text">
-                    {{ article.title }}
-                </p> -->
-                <p class="card-text">
+                <p class="card-text pt-3 pb-3">
                     <small class="text-muted">{{ article.subtitle }}</small>
                 </p>
                 <nuxt-link :to="article.link" :title="article.title" class="btn btn-primary align-items-center d-block">
                     weiterlesen</nuxt-link>
+
             </div>
+
         </div>
     </div>
 </template>
