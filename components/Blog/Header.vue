@@ -5,8 +5,8 @@
                 <div class="row g-5">
                     <div class="col-lg-6 fadeInUp" style="min-height: 400px">
                         <div class="position-relative h-100">
-                            <img class="img-fluid position-absolute w-100 h-100" :src="image"
-                                :alt="config.seo.mainKeyword"
+                            <nuxt-img quality="90" format="webp" class="img-fluid position-absolute w-100 h-100"
+                                :src="image" :alt="config.seo.mainKeyword"
                                 style="object-fit: cover; object-position: center bottom" />
                         </div>
                     </div>
@@ -20,7 +20,7 @@
                                 {{ subtitle }}
                             </p>
                         </div>
-                        <a class="btn btn-primary py-3 px-5 mt-2" href="#article">Zu den Blogartikeln</a>
+                        <a class="btn btn-primary py-3 px-5 mt-2" href="#article">{{ buttonText }}</a>
                     </div>
                 </div>
             </div>
@@ -36,6 +36,7 @@ export default {
         image: String,
         title: String,
         subtitle: String,
+        buttonText: String,
     },
     data() {
         return {

@@ -1,6 +1,7 @@
 <template>
     <div>
-        <BlogHeader :image="article.image" :title="article.title" :subtitle="article.subtitle" />
+        <BlogHeader :buttonText="article.buttonText" :image="article.image" :title="article.title"
+            :subtitle="article.subtitle" />
 
         <div class="container-xxl py-5" id="article">
             <div class="container">
@@ -494,10 +495,11 @@
                         </section>
                     </div>
                 </div>
-                <div class="row">
-                    <div class="col-lg-2 offset-lg-5">
-                        <nuxt-link class="btn btn-primary py-3 px-5" to="/kategorie/campingtoilette/"
-                            title="Campingtoilette kaufen">Campingtoiletten kaufen
+                <div class="row pt-5">
+                    <div class="col-lg-6 offset-lg-3">
+                        <nuxt-link class="btn btn-lg btn-primary py-3 px-5 d-block" to="/kategorie/campingtoilette/"
+                            title="Campingtoilette kaufen"><span class="h1" style="color: #fff">Campingtoiletten
+                                ansehen</span>
                         </nuxt-link>
                     </div>
                 </div>
@@ -511,6 +513,21 @@ import config from "/assets/data/config.json"
 
 export default {
     name: "CampingtoilettenVergleich",
+    head: {
+        title: "Campingtoiletten Vergleich 2022",
+        meta: [
+            {
+                hid: "description",
+                name: "description",
+                content: "Campingtoiletten Vergleich 2022 - Welche mobile Toilette ist die richtige für dich? Welche Campingtoilette hat das beste Preis-Leistungsverhältnis?"
+            },
+            {
+                hid: "robots",
+                name: "robots",
+                content: "index, follow"
+            }
+        ]
+    },
     data() {
         return {
             article: config.blogArticles.find((article) => article.title === "Campingtoiletten Vergleich 2022")

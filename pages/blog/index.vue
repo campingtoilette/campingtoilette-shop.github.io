@@ -1,10 +1,11 @@
 <template>
     <div>
-        <BlogHeader image="/assets/images/feature-campingtoiletten-blog-header.jpg" title="Blog" subtitle="Wir informieren Sie über die neuesten Trends und Entwicklungen im Bereich Camping &
+        <BlogHeader buttonText="Zu den Blogartikeln" image="/assets/images/feature-campingtoiletten-blog-header.jpg"
+            title="Blog" subtitle="Wir informieren Sie über die neuesten Trends und Entwicklungen im Bereich Camping &
                                 Campingtoiletten." />
 
         <div class="row">
-            <div class="container">
+            <div class="container" id="article">
                 <div class="container-xxl py-5">
                     <div class="col-md-6" v-for="(article, index) in articles" :key="index">
                         <BlogItem :article="article" />

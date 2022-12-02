@@ -2,8 +2,8 @@
     <div>
         <div class="card" style="width: 18rem">
             <nuxt-link :to="article.link" :title="article.title">
-                <nuxt-img class="card-img-top blogThumbnails" :src="article.image" format="webp" quality="90"
-                    :alt="article.title" />
+                <nuxt-img class="card-img-top blogThumbnails" height="200" width="286" :src="article.image"
+                    format="webp" quality="90" :alt="article.title" />
             </nuxt-link>
             <div class="card-body">
                 <p class="card-text">
