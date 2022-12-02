@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/blog", {data:[{_img:{"/_ipx/f_webp,q_90/assets/images/feature-campingtoiletten-blog-header.jpg":"\u002F_nuxt\u002Fimages\u002Ffeature-campingtoiletten-blog-header.webp","/_ipx/f_webp,q_90,s_286x200/assets/images/blog/campingtoiletten-vergleich-2022.jpg":"\u002F_nuxt\u002Fimages\u002Fcampingtoiletten-vergleich-2022.webp"}}],fetch:{},mutations:void 0});
