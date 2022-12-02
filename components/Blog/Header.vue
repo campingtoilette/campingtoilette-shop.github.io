@@ -6,7 +6,7 @@
                     <div class="col-lg-6 fadeInUp" style="min-height: 400px">
                         <div class="position-relative h-100">
                             <nuxt-img quality="90" format="webp" class="img-fluid position-absolute w-100 h-100"
-                                :src="image" :alt="config.seo.mainKeyword"
+                                height="400" width="612" :src="image" :alt="config.seo.mainKeyword"
                                 style="object-fit: cover; object-position: center bottom" />
                         </div>
                     </div>
