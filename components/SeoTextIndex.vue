@@ -26,7 +26,7 @@
               welche Campingtoilette ist die beste?
             </p>
 
-            <h5 class="mb-3 mt-5">Die Vorteile von Campingtoiletten im Überblick</h5>
+            <h2 class="mb-3 mt-5 h2">Die Vorteile von Campingtoiletten im Überblick</h2>
 
             <p>
                 <ul>
@@ -38,13 +38,13 @@
                 </ul>
             </p>
 
-            <h5 class="mb-3 mt-5">Welche Campingtoiletten-Hersteller gibt es?</h5>
+            <h3 class="mb-3 mt-5 h2">Welche Campingtoiletten-Hersteller gibt es?</h3>
 
             <p>
               Mittlerweile gibt es den ein oder anderen Hersteller auf dem Markt, der sich durch besondere Qualität hervorheben konnte. Campingtoiletten von Trobolo, Trelino, Kildwick und Meine Trenntoilette sind uns hierbei besonders positiv aufgefallen. Welche Campingtoilette letztenendes für dich und deinen Camping-Trip am besten geeignet ist, kommt nicht zuletzt auch auf deine individuellen Ansprüche an. In unseren Campingtoiletten-Tests erfährst du, welche Funktionen ein bestimmtes Toilettenmodell jeweils zu bieten hat und wo dessen Stärken und Schwächen liegen. 
             </p>
 
-            <h5 class="mb-3 mt-5">So testen wir die Campingtoiletten</h5>
+            <h4 class="mb-3 mt-5 h2">So testen wir die Campingtoiletten</h4>
 
             <p>
               Wir sind selbst leidenschaftliche Camper und wissen genau, worauf es bei der Auswahl der richtigen Campingtoilette ankommt. Natürlich ist uns auch bewusst, wo üblicherweise die Probleme mit solchen Toilettenlösungen stecken können.
