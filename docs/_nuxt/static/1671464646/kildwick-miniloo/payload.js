@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kildwick-miniloo", {data:[{_img:{"/_ipx/f_webp,q_90/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-miniloo.webp":"\u002F_nuxt\u002Fimages\u002Ftrockentrenntoilette-kildwick-miniloo.webp"}}],fetch:{},mutations:void 0});

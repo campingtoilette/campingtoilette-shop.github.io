@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/trelino-l", {data:[{_img:{"/_ipx/f_webp,q_90/assets/images/trockentrenntoiletten/trockentrenntoilette-trelino-l-hpl-veredelung.webp":"\u002F_nuxt\u002Fimages\u002Ftrockentrenntoilette-trelino-l-hpl-veredelung.webp"}}],fetch:{},mutations:void 0});

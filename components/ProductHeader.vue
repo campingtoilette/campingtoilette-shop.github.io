@@ -6,10 +6,12 @@
         <div class="row g-5">
           <div class="col-lg-6 fadeInUp" style="min-height: 400px">
             <div class="position-relative h-100">
-              <img
+              <nuxt-img
                 class="img-fluid position-absolute w-100 h-100"
                 :src="productImage"
                 :alt="productName"
+                format="webp"
+                quality="90"
                 style="object-fit: cover; object-position: center bottom"
               />
             </div>

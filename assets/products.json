@@ -1,4 +1,5 @@
-[{
+[
+    {
         "brand": "TROBOLO",
         "name": "TROBOLO WandaGO",
         "category": "Campingtoilette",
@@ -274,6 +275,30 @@
         "reviewCount": 79,
         "image": "/assets/images/campingtoiletten/campingtoilette-lokus-flatus.webp",
         "shopLink": "https://www.meinetrenntoilette.de/products/lokus-flatus-trenntoilette",
+        "featured": 1,
+        "publish": true,
+        "winner": true,
+        "seo": {
+            "robots": "index, follow"
+        }
+    },
+    {
+        "brand": "Boxio",
+        "name": "Boxio",
+        "category": "Campingtoilette",
+        "material": "(PP) Regenerat (Kunststoff)",
+        "size": "Höhe 280 - Tiefe 400 - Breite 300 mm",
+        "weight": "3,9 kg",
+        "payload": "unbekannt",
+        "function": "Trennsystem",
+        "manufacturerLink": "",
+        "linkTitle": "Boxio Campingtoilette im Test",
+        "linkTo": "/boxio/",
+        "stars": 4,
+        "price": "149,00",
+        "reviewCount": 43,
+        "image": "/assets/images/campingtoiletten/campingtoilette-boxio.jpg",
+        "shopLink": "https://boxio.de/products/boxio-toilet",
         "featured": 1,
         "publish": true,
         "winner": true,
