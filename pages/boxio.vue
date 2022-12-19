@@ -3,7 +3,7 @@
     <ProductHeader
       :productName="product.name"
       textContent="Bei der BOXIO Trenntoilette treffen Funktionalität und Nachhaltigkeit aufeinander. Dank der kompakten Größe kann sie für einen Campingbus oder ein Gartenhaus verwendet werden, jedoch findet sie auch im Kofferraum eines Pkw Platz."
-      productImage="/assets/images/campingtoiletten/campingtoilette-lokus-flatus.webp"
+      productImage="/assets/images/campingtoiletten/campingtoilette-boxio.jpg"
     ></ProductHeader>
 
     <!-- About Start -->
@@ -191,7 +191,7 @@ import products from "~/assets/products.json";
 const product = products.find((item) => item.name === "Boxio");
 
 export default {
-  name: "TrelinoLokusFlatus",
+  name: "Boxio",
   head: {
     title: "Boxio - Eurobox Campingtoilette im Test",
     meta: [
@@ -251,7 +251,7 @@ export default {
           },
           offers: {
             "@type": "Offer",
-            url: "https://www.campingtoilette.shop/lokus-flatus/",
+            url: "https://www.campingtoilette.shop/boxio/",
             priceCurrency: "EUR",
             price: product.price.toString().replace(",", "."),
             priceValidUntil: "2024-11-20",
