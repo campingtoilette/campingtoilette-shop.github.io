@@ -78,16 +78,6 @@
             </p>
 
             <p class="mb-4">
-              Während die Lokus Flatus oben mit einem eleganten Holzdeckel
-              abschließt, besteht der Korpus aus äußerst widerstandsfähigem,
-              schwarzem Kunststoff. Das Material ist nicht nur zu 100 Prozent
-              blickdicht, sondern auch recyclingfähig. Durch die Kombination von
-              nachhaltigen Materialien ist die Lokus Flatus Campingtoilette vor
-              allem für diejenigen geeignet, die den Umweltaspekt beim Kauf
-              einbeziehen und ein umweltfreundliches und langlebiges Produkt
-              haben wollen.
-            </p>
-            <p class="mb-4">
               Dank der Kunststoffbehälter lässt sich die Trenntoilette einfach
               reinigen – am besten mit einem ökologischen Reinigungsmittel.
               Anschließend kann der Feststoffbehälter mit einer Tüte bestückt
