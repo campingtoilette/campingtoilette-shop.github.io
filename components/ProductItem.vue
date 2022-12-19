@@ -3,7 +3,13 @@
     <div class="course-item bg-light">
       <div class="position-relative overflow-hidden">
         <NuxtLink :to="product.linkTo" :title="product.linkTitle">
-          <img class="img-fluid" :src="product.image" :alt="product.name" />
+          <nuxt-img
+            format="webp"
+            quality="90"
+            class="img-fluid"
+            :src="product.image"
+            :alt="product.name"
+          />
         </NuxtLink>
         <div
           class="
