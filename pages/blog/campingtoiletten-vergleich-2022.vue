@@ -191,7 +191,7 @@
                             <h5 class="h1">Die Tabelle zeigt uns...</h5>
 
                             <p class="mb-4">
-                                …, sdass fast alle Hersteller, bis auf DOMETIC, recycelbare Materialien für ihre mobilen
+                                …, dass fast alle Hersteller, bis auf DOMETIC, recycelbare Materialien für ihre mobilen
                                 Toiletten nutzen.
                             </p>
 
