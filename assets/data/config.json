@@ -115,6 +115,14 @@
             "link": "/blog/campingtoiletten-vergleich-2022/",
             "buttonText": "Beitrag lesen",
             "date": "2022-11-30"
+        },
+        {
+            "title": "Chemietoiletten vs. Trenntoiletten",
+            "subtitle": "Welche Toilette ist die bessere? Chemie- und Trenntoiletten im Vergleich.",
+            "image": "/assets/images/blog/chemietoiletten-vs-trenntoiletten.jpg",
+            "link": "/blog/chemietoiletten-vs-trenntoiletten/",
+            "buttonText": "Beitrag lesen",
+            "date": "2023-01-05"
         }
     ]
 }

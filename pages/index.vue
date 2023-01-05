@@ -124,7 +124,7 @@
           <h2 class="mb-5 h2">Die neuesten Blogbeiträge</h2>
         </div>
         <div class="row g-4">
-          <div class="col-md-6" v-for="(article, index) in articles" :key="index">
+          <div class="col-3" v-for="(article, index) in articles" :key="index">
             <BlogItem :article="article" />
           </div>
         </div>

@@ -4,10 +4,10 @@
             title="Blog" subtitle="Wir informieren Sie über die neuesten Trends und Entwicklungen im Bereich Camping &
                                 Campingtoiletten." />
 
-        <div class="row">
+        <div class="container-xxl py-5">
             <div class="container" id="article">
-                <div class="container-xxl py-5">
-                    <div class="col-md-6" v-for="(article, index) in articles" :key="index">
+                <div class="row">
+                    <div class="col-3" v-for="(article, index) in articles" :key="index">
                         <BlogItem :article="article" />
                     </div>
                 </div>
