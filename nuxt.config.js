@@ -55,7 +55,8 @@ export default {
         'nuxt-purgecss',
         '@nuxtjs/google-fonts',
         '@nuxt/image',
-        '@/modules/sitemapRouteGenerator'
+        '@/modules/sitemapRouteGenerator',
+        '@nuxtjs/redirect-module'
     ],
 
     purgeCSS: {
@@ -65,7 +66,8 @@ export default {
     // Modules: https://go.nuxtjs.dev/config-modules
     modules: [
         '@nuxtjs/sitemap',
-        '@nuxtjs/robots'
+        '@nuxtjs/robots',
+        '@nuxtjs/redirect-module',
     ],
 
     // Sitemap
@@ -79,6 +81,11 @@ export default {
         // Generate images to `/_nuxt/image/file.png`
         staticFilename: '[publicPath]/images/[name][ext]'
     },
+
+    // redirect module rules
+    redirect: [
+        { from: '^/blog/campingtoiletten-vergleich-2022/$', to: '/blog/campingtoiletten-vergleich-2023/', statusCode: 301 }
+    ],
 
     // Build Configuration: https://go.nuxtjs.dev/config-build
     build: {},

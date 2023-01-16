@@ -512,9 +512,9 @@
 import config from "/assets/data/config.json"
 
 export default {
-    name: "CampingtoilettenVergleich2034",
+    name: "CampingtoilettenVergleich",
     head: {
-        title: "Campingtoiletten Vergleich 2023",
+        title: "Campingtoiletten Vergleich 2022",
         meta: [
             {
                 hid: "description",

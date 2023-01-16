@@ -10,6 +10,7 @@
     "deploy": "nuxt generate && copyfiles CNAME docs/ && git add docs/* && git commit -am 'deploying' && git push"
   },
   "dependencies": {
+    "@nuxtjs/redirect-module": "^0.3.1",
     "@nuxtjs/robots": "^2.5.0",
     "@nuxtjs/sitemap": "^2.4.0",
     "copyfiles": "^2.4.1",
