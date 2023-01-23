@@ -1,1 +1,0 @@
-__NUXT_JSONP__("/blog/campingtoiletten-vergleich-2023", {data:[{_img:{"/_ipx/f_webp,q_90,s_612x400/assets/images/blog/campingtoiletten-vergleich-2022.jpg":"\u002F_nuxt\u002Fimages\u002Fcampingtoiletten-vergleich-2022.webp"}}],fetch:{},mutations:void 0});
