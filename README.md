@@ -1,4 +1,4 @@
-# Trockentrenntoilette.net
+# campingtoilette.shop
 
 This is the repository for [campingtoilette.shop](https://www.campingtoilette.shop/)
 
