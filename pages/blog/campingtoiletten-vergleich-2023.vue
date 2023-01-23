@@ -503,6 +503,11 @@
                         </nuxt-link>
                     </div>
                 </div>
+                <div class="row pt-5">
+                    <div class="col-3">
+                        <BlogItem :article="pdfArticle" />
+                    </div>
+                </div>
             </div>
         </div>
     </div>
@@ -530,7 +535,8 @@ export default {
     },
     data() {
         return {
-            article: config.blogArticles.find((article) => article.title === "Campingtoiletten Vergleich 2023")
+            article: config.blogArticles.find((article) => article.title === "Campingtoiletten Vergleich 2023"),
+            pdfArticle: config.blogArticles.find((article) => article.title === "Campingtoiletten Vergleich als PDF (kostenlos!)")
         }
     }
 }

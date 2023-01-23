@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="card" style="width: 18rem">
+        <div class="card h-100" style="width: 18rem">
             <nuxt-link :to="article.link" :title="article.title">
                 <nuxt-img class="card-img-top blogThumbnails" height="200" width="286" :src="article.image"
                     format="webp" quality="90" :alt="article.title" />
@@ -18,14 +18,14 @@
                     <small class="text-muted">{{ article.subtitle }}</small>
                 </p>
                 <nuxt-link :to="article.link" :title="article.title" class="btn btn-primary align-items-center d-block">
-                    weiterlesen</nuxt-link>
+                    {{ article.buttonText }}</nuxt-link>
 
             </div>
 
         </div>
     </div>
 </template>
-  
+
 <script>
 export default {
     name: "BlogItem",
@@ -59,4 +59,3 @@ export default {
     width: 100%;
 }
 </style>
-  

@@ -123,6 +123,14 @@
             "link": "/blog/chemietoiletten-vs-trenntoiletten/",
             "buttonText": "Beitrag lesen",
             "date": "2023-01-05"
+        },
+        {
+            "title": "Campingtoiletten Vergleich als PDF (kostenlos!)",
+            "subtitle": "Downloade unseren ultimativen Campingtoiletten-Vergleich!",
+            "image": "/assets/images/blog/kostenloser-campingtoiletten-vergleich.png",
+            "link": "/assets/pdf/campingtoilette-shop-trenntoiletten-vergleich.pdf",
+            "buttonText": "Kostenlos downloaden!",
+            "date": "2023-01-23"
         }
     ]
 }
