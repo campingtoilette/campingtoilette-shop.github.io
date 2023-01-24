@@ -130,7 +130,8 @@
             "image": "/assets/images/blog/kostenloser-campingtoiletten-vergleich.png",
             "link": "/assets/pdf/campingtoilette-shop-trenntoiletten-vergleich.pdf",
             "buttonText": "Kostenlos downloaden!",
-            "date": "2023-01-23"
+            "date": "2023-01-23",
+            "isDownloadableFile": true
         }
     ]
 }
