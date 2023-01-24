@@ -123,8 +123,8 @@
           </div>
           <h2 class="mb-5 h2">Die neuesten Blogbeiträge</h2>
         </div>
-        <div class="row g-4">
-          <div class="col-3" v-for="(article, index) in articles" :key="index">
+        <div class="row g-4 justify-content-center">
+          <div class="col-lg-4 col-md-6" v-for="(article, index) in articles" :key="index">
             <BlogItem :article="article" />
           </div>
         </div>
@@ -190,7 +190,7 @@
                   </div>
                 </NuxtLink>
               </div>
-              <div class="col-lg-6 col-md-12 zoomIn">
+              <div class="col-lg-3 col-md-3 zoomIn">
                 <NuxtLink class="position-relative d-block overflow-hidden" to="/hersteller/kildwick/"
                   title="Mehr über Kildwick erfahren">
                   <div class="grayscaleContainer">

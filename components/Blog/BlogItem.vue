@@ -1,6 +1,6 @@
 <template>
     <div>
-        <div class="card h-100" style="width: 18rem">
+        <div class="card h-100" style="width: 18rem;">
             <nuxt-link :target="article.isDownloadableFile ? '_blank' : false" :download="article.isDownloadableFile ? '' : false" :to="article.link" :title="article.title">
                 <nuxt-img class="card-img-top blogThumbnails" height="200" width="286" :src="article.image"
                     format="webp" quality="90" :alt="article.title" />
