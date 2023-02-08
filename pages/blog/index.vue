@@ -16,7 +16,7 @@
           </div>
           <h2 class="mb-5 h2">Die neuesten Blogbeiträge</h2>
         </div>
-        <div class="row g-4 justify-content-center">
+        <div class="row g-4 justify-content-center" id="article">
           <div
             class="col-lg-4 col-md-6"
             v-for="(article, index) in articles"
