@@ -1,7 +1,7 @@
 <template>
     <div>
         <ProductHeader productName="TROBOLO TeraGO"
-            textContent="Der TROBOLO TeraGO ist eine kompakte Trenntoilette, die speziell für den Innenbereich und begrenzte Räumlichkeiten konzipiert wurde. Dank ihrer geringen Maße und ihres leichten Gewichts eignet sie sich ideal für den Transport in Vans, Wohnmobilen und PKWs. Sie passt perfekt in das Toilettenfach von VW California, Mercedes Marco Polo und Ford Nugget. Die Toilette ist mit praktischen Tragegriffen und dem einzigartigen TROBOLO SafeShell System® ausgestattet."
+            textContent="Das TROBOLO TeraGO ist eine kompakte Trenntoilette, die speziell für den Innenbereich und begrenzte Räumlichkeiten konzipiert wurde. Dank ihrer geringen Maße und ihres leichten Gewichts eignet sie sich ideal für den Transport in Vans, Wohnmobilen und PKWs. Sie passt perfekt in das Toilettenfach von VW California, Mercedes Marco Polo und Ford Nugget. Die Toilette ist mit praktischen Tragegriffen und dem einzigartigen TROBOLO SafeShell System® ausgestattet."
             productImage="/assets/images/campingtoiletten/campingtoilette-trobolo-terago.webp"></ProductHeader>
 
         <!-- About Start -->
