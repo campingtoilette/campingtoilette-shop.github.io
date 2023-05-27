@@ -25,6 +25,30 @@
     },
     {
         "brand": "TROBOLO",
+        "name": "TROBOLO TeraGO",
+        "category": "Campingtoilette",
+        "material": "Erlen Mehrschichtholz",
+        "size": "Höhe 320 - Tiefe 378 - Breite 338 mm",
+        "weight": "6,8 kg",
+        "payload": "150 kg",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/trobolo/",
+        "linkTitle": "TROBOLO TeraGO Campingtoilette im Test",
+        "linkTo": "/trobolo-terago/",
+        "stars": 5,
+        "price": "299,00",
+        "reviewCount": 69,
+        "image": "/assets/images/campingtoiletten/campingtoilette-trobolo-terago.webp",
+        "shopLink": "https://trobolo.com/de/produkte/terago/",
+        "featured": 1,
+        "winner": 1,
+        "publish": true,
+        "seo": {
+            "robots": "index, follow"
+        }
+    },
+    {
+        "brand": "TROBOLO",
         "name": "TROBOLO TeraBlœm",
         "category": "Innenbereich",
         "material": "15 mm massives Kiefernholz",
@@ -42,30 +66,6 @@
         "shopLink": "https://trobolo.com/de/produkte/terabloem/",
         "featured": 1,
         "winner": 0,
-        "publish": true,
-        "seo": {
-            "robots": "noindex, follow"
-        }
-    },
-    {
-        "brand": "TROBOLO",
-        "name": "TROBOLO LuweBlœm",
-        "category": "Innenbereich",
-        "material": "18 mm massives Kiefernholz",
-        "size": "Höhe 497 - Tiefe 600  - Breite 400 mm",
-        "weight": "22 kg",
-        "payload": "220 kg",
-        "function": "Trennsystem",
-        "manufacturerLink": "/hersteller/trobolo/",
-        "linkTitle": "TROBOLO LuweBlœm im Test",
-        "linkTo": "/trobolo-luwebloem/",
-        "stars": 5,
-        "price": "679,00",
-        "reviewCount": 299,
-        "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp",
-        "shopLink": "https://trobolo.com/de/produkte/luwebloem/",
-        "featured": 1,
-        "winner": 1,
         "publish": true,
         "seo": {
             "robots": "noindex, follow"
@@ -304,6 +304,30 @@
         "winner": true,
         "seo": {
             "robots": "index, follow"
+        }
+    },
+    {
+        "brand": "TROBOLO",
+        "name": "TROBOLO LuweBlœm",
+        "category": "Innenbereich",
+        "material": "18 mm massives Kiefernholz",
+        "size": "Höhe 497 - Tiefe 600  - Breite 400 mm",
+        "weight": "22 kg",
+        "payload": "220 kg",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/trobolo/",
+        "linkTitle": "TROBOLO LuweBlœm im Test",
+        "linkTo": "/trobolo-luwebloem/",
+        "stars": 5,
+        "price": "679,00",
+        "reviewCount": 299,
+        "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-trobolo-luwebloem.webp",
+        "shopLink": "https://trobolo.com/de/produkte/luwebloem/",
+        "featured": 1,
+        "winner": 0,
+        "publish": true,
+        "seo": {
+            "robots": "noindex, follow"
         }
     }
 ]

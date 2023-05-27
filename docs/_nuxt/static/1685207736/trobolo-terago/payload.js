@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/trobolo-terago", {data:[{_img:{"/_ipx/f_webp,q_90/assets/images/campingtoiletten/campingtoilette-trobolo-terago.webp":"\u002F_nuxt\u002Fimages\u002Fcampingtoilette-trobolo-terago.webp"}}],fetch:{},mutations:void 0});
