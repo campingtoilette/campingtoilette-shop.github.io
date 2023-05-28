@@ -207,7 +207,7 @@ export default {
           ],
           description:
             "TROBOLO TeraBlœm - Handgefertigte Trockentrenntoilette mit Trennsystem für den Innenbereich.",
-          sku: "S5XX1392ES",
+          sku: "S4XX1451",
           mpn: "24542",
           brand: {
             "@type": "Brand",
