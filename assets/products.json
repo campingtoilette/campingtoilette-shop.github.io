@@ -68,7 +68,7 @@
         "winner": 0,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -91,7 +91,7 @@
         "featured": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -115,7 +115,7 @@
         "winner": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -139,7 +139,7 @@
         "winner": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -162,7 +162,7 @@
         "featured": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -185,7 +185,7 @@
         "featured": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -208,7 +208,7 @@
         "featured": 1,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -231,7 +231,7 @@
         "featured": 0,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
         }
     },
     {
@@ -327,7 +327,31 @@
         "winner": 0,
         "publish": true,
         "seo": {
-            "robots": "noindex, follow"
+            "robots": "index, follow"
+        }
+    },
+    {
+        "brand": "Kildwick",
+        "name": "Kildwick PiccoLoo",
+        "category": "Innenbereich",
+        "material": "8mm Birkensperrholz, unbehandelt",
+        "size": "Höhe 317 - Tiefe 384  - Breite 337 mm",
+        "weight": "8 kg",
+        "payload": "150 kg",
+        "function": "Trennsystem",
+        "manufacturerLink": "/hersteller/kildwick/",
+        "linkTitle": "Kildwick PiccoLoo im Test",
+        "linkTo": "/kildwick-piccoloo/",
+        "stars": 3,
+        "price": "369,00",
+        "reviewCount": 183,
+        "image": "/assets/images/trockentrenntoiletten/trockentrenntoilette-kildwick-piccoloo.webp",
+        "shopLink": "https://www.kildwick.com/de/piccoloo-bausatz-weiss",
+        "featured": 1,
+        "winner": 0,
+        "publish": true,
+        "seo": {
+            "robots": "index, follow"
         }
     }
 ]

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/kildwick-piccoloo", {data:[{_img:{"/_ipx/f_webp,q_90/assets/images/campingtoiletten/campingtoilette-kildwick-piccoloo.webp":"\u002F_nuxt\u002Fimages\u002Fcampingtoilette-kildwick-piccoloo.webp"}}],fetch:{},mutations:void 0});
