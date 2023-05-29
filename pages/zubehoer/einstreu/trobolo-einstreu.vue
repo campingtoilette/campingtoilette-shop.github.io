@@ -1,10 +1,8 @@
 <template>
   <div>
-    <ZubehoerProductHeader
-      productName="TROBOLO Einstreu im Test"
+    <ZubehoerProductHeader productName="TROBOLO Einstreu im Test"
       textContent="Der Trockentoiletten Einstreu von TROBOLO besteht zu 80% aus Kiefer und 20% aus Erle. TROBOLO stellt den Einstreu selbst her. Er dient der Geruchsunterdrückung für Trockentrenntoiletten."
-      :productImage="product.image"
-    ></ZubehoerProductHeader>
+      :productImage="product.image"></ZubehoerProductHeader>
 
     <!-- About Start -->
     <div class="container-xxl py-5" id="testbericht">
@@ -75,25 +73,14 @@
                 </p>
               </div>
             </div>
-            <a
-              class="btn btn-primary py-3 px-5"
-              target="_blank"
-              rel="nofollow noopener"
-              :href="this.product.shopLink"
-              >Bestellen</a
-            >
+            <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener"
+              :href="this.product.shopLink">Bestellen</a>
           </div>
           <div class="col-lg-4 fadeInUp">
             <ZubehoerProductCard :product="product" />
             <div class="mt-5">
-              <a
-                class="btn btn-primary py-3 px-5"
-                target="_blank"
-                rel="nofollow noopener"
-                :href="this.product.shopLink"
-                style="display: block; width: 100%"
-                >TROBOLO Online Shop</a
-              >
+              <a class="btn btn-primary py-3 px-5" target="_blank" rel="nofollow noopener" :href="this.product.shopLink"
+                style="display: block; width: 100%">TROBOLO Online Shop</a>
             </div>
           </div>
         </div>
@@ -116,7 +103,7 @@ export default {
         hid: "description",
         name: "description",
         content:
-          "Der Einstreu für Trockentrenntoiletten von TROBOLO besteht zu 80% aus Kiefer und 20% aus Erle. Wir testen den Einstreu aus der Eigenproduktion von TROBLO.",
+          "Der Einstreu für Trockentrenntoiletten von TROBOLO besteht zu 80% aus Kiefer und 20% aus Erle. Wir testen den Einstreu aus der Eigenproduktion von TROBOLO.",
       },
       {
         hid: "robots",

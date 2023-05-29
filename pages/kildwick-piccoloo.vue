@@ -54,7 +54,7 @@
                         <p>Wer nur wenig Platz hat, findet mit der PiccoLoo Trenntoilette von Kildwick einen kompakten
                             Begleiter, der sich auch als Hocker nutzen lässt. Maßeund Gewicht überzeugen und machen die
                             Trenntoilette ideal für unterwegs. Mit knapp 420 Euro ist die Campingtoilette eher hochpreisig
-                            angesetzt. Als günstigere Alternative ist beispielsweise der <nuxt-link to="/troblo-terago/"
+                            angesetzt. Als günstigere Alternative ist beispielsweise der <nuxt-link to="/trobolo-terago/"
                                 title="TROBOLO TeraGO als Bausatz">Bausatz TROBOLO TeraGO</nuxt-link> eine Option,
                             der nur knapp 300 Euro kostet und sogar noch etwas kompakter ist.</p>
 
