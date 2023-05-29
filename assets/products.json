@@ -353,5 +353,29 @@
         "seo": {
             "robots": "index, follow"
         }
+    },
+    {
+        "brand": "Thetford",
+        "name": "Thetford Porta Potti 565P",
+        "category": "Campingtoilette",
+        "material": "Kunststoff",
+        "size": "Höhe 440 - Tiefe 450 - Breite 380 mm",
+        "weight": "5,3 kg",
+        "payload": "unbekannt",
+        "function": "Chemietoilette",
+        "manufacturerLink": "/hersteller/thetford/",
+        "linkTitle": "Thetford Porta Potti 565P im Test",
+        "linkTo": "/thetford-porta-potti-565p/",
+        "stars": 2,
+        "price": "132,00",
+        "reviewCount": 355,
+        "image": "/assets/images/campingtoiletten/campingtoilette-thetford-porta-potti-565p.webp",
+        "shopLink": "https://www.fritz-berger.de/artikel/thetford-porta-potti-565p-565e-excellence-tragbare-campingtoilette-84770",
+        "featured": 1,
+        "winner": 0,
+        "publish": true,
+        "seo": {
+            "robots": "index, follow"
+        }
     }
 ]

@@ -1,0 +1,1 @@
+__NUXT_JSONP__("/thetford-porta-potti-565p", {data:[{_img:{"/_ipx/f_webp,q_90/assets/images/campingtoiletten/campingtoilette-thetford-porta-potti-565p.webp":"\u002F_nuxt\u002Fimages\u002Fcampingtoilette-thetford-porta-potti-565p.webp"}}],fetch:{},mutations:void 0});
