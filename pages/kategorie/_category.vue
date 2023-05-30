@@ -13,11 +13,7 @@
       </div>
       <div class="container">
         <div class="row">
-          <div
-            v-for="product in filteredProducts"
-            :key="product"
-            class="col-lg-4 fadeInUp"
-          >
+          <div v-for="product in filteredProducts" :key="product" class="col-lg-4 fadeInUp">
             <ProductItem :product="product" class="mt-5" />
           </div>
         </div>
@@ -59,7 +55,7 @@ export default {
   data() {
     const category = this.$route.params.category;
     const filteredProducts = products.filter(
-      (x) => x.category.toLowerCase() === category
+      (x) => x.category.toLowerCase() === category && x.publish
     );
     return {
       filteredProducts,
