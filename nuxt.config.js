@@ -25,9 +25,24 @@ export default {
         script: [
             { type: 'text/javascript', src: 'https://code.jquery.com/jquery-3.4.1.min.js', body: true },
             { type: 'text/javascript', src: 'https://cdn.jsdelivr.net/npm/bootstrap@5.0.0/dist/js/bootstrap.bundle.min.js', body: true },
-            { type: 'text/javascript', src: '/assets/js/main.js', body: true }
-
-        ]
+            { type: 'text/javascript', src: '/assets/js/main.js', body: true },
+            {
+                src: 'https://www.googletagmanager.com/gtag/js?id=G-45KJTXLQX0',
+                async: true,
+            },
+            {
+                innerHTML: `
+                  window.dataLayer = window.dataLayer || [];
+                  function gtag(){dataLayer.push(arguments);}
+                  gtag('js', new Date());
+                  gtag('config', 'G-45KJTXLQX0');
+                `,
+            },
+        ],
+        __dangerouslyDisableSanitizersByTagID: {
+            // this is to prevent Nuxt from sanitizing the innerHTML
+            'google-gtag': ['innerHTML'],
+        },
     },
 
     generate: {
